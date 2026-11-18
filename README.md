@@ -232,11 +232,11 @@ The application can be accessed from an iPad while the backend runs on a laptop.
 
 ## 👩‍💻 Project Contributors
 
-**Keerthana B**  
-**Darshana Ganesh**
+**Keerthana B**  - III CSE A (RA2411003050009)
+**Darshana Ganesh** - III CSE A (RA2411003050050)
 
 **Project Guide:**  
-Dr. Kanaga Suba Raja. S
+Dr. Kanaga Suba Raja. S - HEAD OF DEPARTMENT COMPUTER SCIENCE OF ENGINEERING
 
 ---
 
