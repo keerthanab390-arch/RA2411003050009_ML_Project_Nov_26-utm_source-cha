@@ -1,0 +1,202 @@
+{
+  "frame01": {
+    "bridgeXPercent": 28.96,
+    "bridgeYPercent": 30.49,
+    "frontFrameRatio": 0.569
+  },
+  "frame02": {
+    "bridgeXPercent": 39.92,
+    "bridgeYPercent": 46.47,
+    "frontFrameRatio": 0.587
+  },
+  "frame03": {
+    "bridgeXPercent": 31.29,
+    "bridgeYPercent": 37.6,
+    "frontFrameRatio": 0.565
+  },
+  "frame04": {
+    "bridgeXPercent": 27.79,
+    "bridgeYPercent": 30.3,
+    "frontFrameRatio": 0.591
+  },
+  "frame05": {
+    "bridgeXPercent": 22.33,
+    "bridgeYPercent": 43.49,
+    "frontFrameRatio": 0.419
+  },
+  "frame06": {
+    "bridgeXPercent": 22.88,
+    "bridgeYPercent": 42.66,
+    "frontFrameRatio": 0.589
+  },
+  "frame07": {
+    "bridgeXPercent": 33.17,
+    "bridgeYPercent": 36.09,
+    "frontFrameRatio": 0.417
+  },
+  "frame08": {
+    "bridgeXPercent": 28.54,
+    "bridgeYPercent": 33.7,
+    "frontFrameRatio": 0.582
+  },
+  "frame09": {
+    "bridgeXPercent": 27.21,
+    "bridgeYPercent": 35.44,
+    "frontFrameRatio": 0.584
+  },
+  "frame10": {
+    "bridgeXPercent": 41.17,
+    "bridgeYPercent": 45.28,
+    "frontFrameRatio": 0.541
+  },
+  "frame11": {
+    "bridgeXPercent": 37.38,
+    "bridgeYPercent": 47.12,
+    "frontFrameRatio": 0.59
+  },
+  "frame12": {
+    "bridgeXPercent": 18.0,
+    "bridgeYPercent": 38.33,
+    "frontFrameRatio": 0.591
+  },
+  "frame13": {
+    "bridgeXPercent": 41.21,
+    "bridgeYPercent": 46.28,
+    "frontFrameRatio": 0.591
+  },
+  "frame14": {
+    "bridgeXPercent": 37.79,
+    "bridgeYPercent": 43.84,
+    "frontFrameRatio": 0.588
+  },
+  "frame15": {
+    "bridgeXPercent": 37.54,
+    "bridgeYPercent": 44.07,
+    "frontFrameRatio": 0.588
+  },
+  "frame16": {
+    "bridgeXPercent": 38.0,
+    "bridgeYPercent": 45.69,
+    "frontFrameRatio": 0.585
+  },
+  "frame17": {
+    "bridgeXPercent": 39.21,
+    "bridgeYPercent": 47.97,
+    "frontFrameRatio": 0.59
+  },
+  "frame18": {
+    "bridgeXPercent": 41.88,
+    "bridgeYPercent": 42.07,
+    "frontFrameRatio": 0.569
+  },
+  "frame19": {
+    "bridgeXPercent": 38.46,
+    "bridgeYPercent": 33.2,
+    "frontFrameRatio": 0.53
+  },
+  "frame20": {
+    "bridgeXPercent": 25.87,
+    "bridgeYPercent": 38.59,
+    "frontFrameRatio": 0.565
+  },
+  "frame21": {
+    "bridgeXPercent": 27.04,
+    "bridgeYPercent": 30.26,
+    "frontFrameRatio": 0.589
+  },
+  "frame22": {
+    "bridgeXPercent": 27.25,
+    "bridgeYPercent": 30.26,
+    "frontFrameRatio": 0.586
+  },
+  "frame23": {
+    "bridgeXPercent": 41.83,
+    "bridgeYPercent": 47.32,
+    "frontFrameRatio": 0.55
+  },
+  "frame24": {
+    "bridgeXPercent": 26.92,
+    "bridgeYPercent": 28.51,
+    "frontFrameRatio": 0.59
+  },
+  "frame25": {
+    "bridgeXPercent": 29.71,
+    "bridgeYPercent": 36.58,
+    "frontFrameRatio": 0.575
+  },
+  "frame26": {
+    "bridgeXPercent": 28.88,
+    "bridgeYPercent": 28.85,
+    "frontFrameRatio": 0.588
+  },
+  "frame27": {
+    "bridgeXPercent": 29.5,
+    "bridgeYPercent": 38.97,
+    "frontFrameRatio": 0.55
+  },
+  "frame28": {
+    "bridgeXPercent": 29.12,
+    "bridgeYPercent": 38.58,
+    "frontFrameRatio": 0.532
+  },
+  "frame29": {
+    "bridgeXPercent": 18.0,
+    "bridgeYPercent": 43.68,
+    "frontFrameRatio": 0.589
+  },
+  "frame30": {
+    "bridgeXPercent": 26.29,
+    "bridgeYPercent": 36.26,
+    "frontFrameRatio": 0.581
+  },
+  "frame31": {
+    "bridgeXPercent": 18.0,
+    "bridgeYPercent": 40.34,
+    "frontFrameRatio": 0.51
+  },
+  "frame32": {
+    "bridgeXPercent": 18.08,
+    "bridgeYPercent": 39.39,
+    "frontFrameRatio": 0.576
+  },
+  "frame33": {
+    "bridgeXPercent": 33.38,
+    "bridgeYPercent": 54.46,
+    "frontFrameRatio": 0.544
+  },
+  "frame34": {
+    "bridgeXPercent": 29.83,
+    "bridgeYPercent": 43.14,
+    "frontFrameRatio": 0.555
+  },
+  "frame35": {
+    "bridgeXPercent": 41.12,
+    "bridgeYPercent": 48.77,
+    "frontFrameRatio": 0.567
+  },
+  "frame36": {
+    "bridgeXPercent": 30.88,
+    "bridgeYPercent": 35.22,
+    "frontFrameRatio": 0.513
+  },
+  "frame37": {
+    "bridgeXPercent": 39.88,
+    "bridgeYPercent": 47.49,
+    "frontFrameRatio": 0.554
+  },
+  "frame38": {
+    "bridgeXPercent": 18.04,
+    "bridgeYPercent": 40.4,
+    "frontFrameRatio": 0.525
+  },
+  "frame39": {
+    "bridgeXPercent": 28.17,
+    "bridgeYPercent": 35.81,
+    "frontFrameRatio": 0.536
+  },
+  "frame40": {
+    "bridgeXPercent": 26.5,
+    "bridgeYPercent": 36.78,
+    "frontFrameRatio": 0.588
+  }
+}

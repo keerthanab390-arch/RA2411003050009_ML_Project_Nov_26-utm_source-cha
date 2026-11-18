@@ -1,0 +1,680 @@
+customer_id,session_id,timestamp,pref_style,pref_color,pref_budget,budget_max,frame_id,frame_name,frame_style,frame_color,frame_shape,frame_size,frame_price,feedback_type,feedback_label
+cust_0001,sess_0001_1,2026-09-06T13:14:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,favourite,1
+cust_0001,sess_0001_1,2026-10-16T20:44:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,add_to_cart,1
+cust_0001,sess_0001_1,2026-09-01T12:44:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,purchase,1
+cust_0001,sess_0001_1,2026-09-22T11:05:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-35,MILANO,Classic,Black,Square,Medium,1899,add_to_cart,1
+cust_0002,sess_0002_1,2026-10-06T14:53:00,Professional,Brown,"₹1,501 - ₹1,800",1800,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,explicit_dislike,0
+cust_0002,sess_0002_1,2026-10-07T13:45:00,Professional,Brown,"₹1,501 - ₹1,800",1800,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,dismiss,0
+cust_0002,sess_0002_1,2026-09-06T13:55:00,Professional,Brown,"₹1,501 - ₹1,800",1800,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,dismiss,0
+cust_0002,sess_0002_1,2026-09-11T15:22:00,Professional,Brown,"₹1,501 - ₹1,800",1800,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,purchase,1
+cust_0002,sess_0002_1,2026-10-09T20:10:00,Professional,Brown,"₹1,501 - ₹1,800",1800,frame-35,MILANO,Classic,Black,Square,Medium,1899,favourite,1
+cust_0003,sess_0003_1,2026-09-26T14:04:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,purchase,1
+cust_0003,sess_0003_1,2026-09-14T20:31:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,dismiss,0
+cust_0003,sess_0003_1,2026-09-10T14:08:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,dismiss,0
+cust_0003,sess_0003_1,2026-10-08T16:57:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,dismiss,0
+cust_0003,sess_0003_1,2026-10-03T17:05:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,add_to_cart,1
+cust_0003,sess_0003_1,2026-10-11T12:50:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-4,MICHEL,Classic,Copper,Round,Small,1099,explicit_dislike,0
+cust_0004,sess_0004_1,2026-10-12T15:07:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,purchase,1
+cust_0004,sess_0004_1,2026-09-17T18:48:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,favourite,1
+cust_0004,sess_0004_1,2026-10-11T18:38:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,dismiss,0
+cust_0004,sess_0004_1,2026-10-05T18:58:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,add_to_cart,1
+cust_0004,sess_0004_1,2026-09-08T15:56:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,favourite,1
+cust_0004,sess_0004_1,2026-09-04T13:56:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_dislike,0
+cust_0005,sess_0005_1,2026-09-14T18:48:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,dismiss,0
+cust_0005,sess_0005_1,2026-09-26T20:41:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-35,MILANO,Classic,Black,Square,Medium,1899,purchase,1
+cust_0005,sess_0005_1,2026-09-08T13:14:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,dismiss,0
+cust_0005,sess_0005_1,2026-10-08T13:00:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,add_to_cart,1
+cust_0005,sess_0005_1,2026-09-05T10:55:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,add_to_cart,1
+cust_0005,sess_0005_1,2026-10-13T17:13:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,purchase,1
+cust_0006,sess_0006_1,2026-09-30T10:43:00,Casual,Gold,Any Budget,2000,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_like,1
+cust_0006,sess_0006_1,2026-09-26T15:51:00,Casual,Gold,Any Budget,2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,favourite,1
+cust_0006,sess_0006_1,2026-10-05T17:08:00,Casual,Gold,Any Budget,2000,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,add_to_cart,1
+cust_0006,sess_0006_1,2026-09-05T17:51:00,Casual,Gold,Any Budget,2000,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,add_to_cart,1
+cust_0006,sess_0006_1,2026-10-12T18:53:00,Casual,Gold,Any Budget,2000,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,favourite,1
+cust_0006,sess_0006_1,2026-09-11T16:31:00,Casual,Gold,Any Budget,2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,add_to_cart,1
+cust_0007,sess_0007_1,2026-09-19T16:44:00,Professional,Silver,"₹1,801 - ₹2,000",2000,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_like,1
+cust_0007,sess_0007_1,2026-09-10T13:18:00,Professional,Silver,"₹1,801 - ₹2,000",2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,dismiss,0
+cust_0007,sess_0007_1,2026-09-21T10:03:00,Professional,Silver,"₹1,801 - ₹2,000",2000,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,favourite,1
+cust_0008,sess_0008_1,2026-09-26T11:56:00,Casual,Teal,Any Budget,2000,frame-4,MICHEL,Classic,Copper,Round,Small,1099,add_to_cart,1
+cust_0008,sess_0008_1,2026-10-10T11:26:00,Casual,Teal,Any Budget,2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0008,sess_0008_1,2026-09-17T13:42:00,Casual,Teal,Any Budget,2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,dismiss,0
+cust_0008,sess_0008_1,2026-09-09T20:41:00,Casual,Teal,Any Budget,2000,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_like,1
+cust_0009,sess_0009_1,2026-10-05T13:32:00,Trendy,Teal,"₹1,501 - ₹1,800",1800,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_dislike,0
+cust_0009,sess_0009_1,2026-09-16T15:18:00,Trendy,Teal,"₹1,501 - ₹1,800",1800,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,explicit_dislike,0
+cust_0009,sess_0009_1,2026-10-10T20:33:00,Trendy,Teal,"₹1,501 - ₹1,800",1800,frame-40,NORDIC,Modern,Black,Square,Large,1899,dismiss,0
+cust_0010,sess_0010_1,2026-09-18T14:38:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_dislike,0
+cust_0010,sess_0010_1,2026-10-03T17:16:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,purchase,1
+cust_0010,sess_0010_1,2026-10-11T16:53:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,explicit_dislike,0
+cust_0011,sess_0011_1,2026-09-05T12:34:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_dislike,0
+cust_0011,sess_0011_1,2026-09-28T12:02:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_dislike,0
+cust_0011,sess_0011_1,2026-09-23T13:43:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_dislike,0
+cust_0011,sess_0011_1,2026-10-10T12:59:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,explicit_like,1
+cust_0011,sess_0011_1,2026-09-27T10:11:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_dislike,0
+cust_0012,sess_0012_1,2026-09-23T14:52:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,dismiss,0
+cust_0012,sess_0012_1,2026-10-13T13:25:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,favourite,1
+cust_0012,sess_0012_1,2026-09-23T20:32:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,dismiss,0
+cust_0012,sess_0012_1,2026-09-02T11:56:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,dismiss,0
+cust_0012,sess_0012_1,2026-09-03T11:38:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,purchase,1
+cust_0013,sess_0013_1,2026-09-24T16:04:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,add_to_cart,1
+cust_0013,sess_0013_1,2026-10-13T11:46:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0013,sess_0013_1,2026-09-21T16:44:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,explicit_like,1
+cust_0013,sess_0013_1,2026-10-13T16:43:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,explicit_like,1
+cust_0013,sess_0013_1,2026-09-26T18:53:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,purchase,1
+cust_0013,sess_0013_1,2026-10-08T19:41:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_like,1
+cust_0014,sess_0014_1,2026-09-06T13:43:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,dismiss,0
+cust_0014,sess_0014_1,2026-09-02T10:15:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0014,sess_0014_1,2026-09-30T16:56:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,favourite,1
+cust_0014,sess_0014_1,2026-10-02T16:15:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_like,1
+cust_0014,sess_0014_1,2026-09-28T13:11:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,explicit_dislike,0
+cust_0014,sess_0014_1,2026-09-04T18:15:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,dismiss,0
+cust_0015,sess_0015_1,2026-10-01T17:16:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0015,sess_0015_1,2026-10-04T17:40:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,dismiss,0
+cust_0015,sess_0015_1,2026-09-16T14:21:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,purchase,1
+cust_0015,sess_0015_1,2026-09-10T13:24:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,explicit_dislike,0
+cust_0015,sess_0015_1,2026-09-27T16:21:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0015,sess_0015_1,2026-09-27T16:57:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,explicit_dislike,0
+cust_0016,sess_0016_1,2026-10-02T13:17:00,Casual,Black,Any Budget,2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0
+cust_0016,sess_0016_1,2026-10-13T20:51:00,Casual,Black,Any Budget,2000,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,purchase,1
+cust_0016,sess_0016_1,2026-09-09T19:34:00,Casual,Black,Any Budget,2000,frame-23,MONOLITH,Classic,Black,Square,Large,1699,explicit_like,1
+cust_0016,sess_0016_1,2026-09-06T20:27:00,Casual,Black,Any Budget,2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,favourite,1
+cust_0016,sess_0016_1,2026-09-17T16:20:00,Casual,Black,Any Budget,2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,favourite,1
+cust_0016,sess_0016_1,2026-09-18T16:16:00,Casual,Black,Any Budget,2000,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_like,1
+cust_0017,sess_0017_1,2026-09-16T13:53:00,Classic,Teal,"₹1,000 - ₹1,200",1200,frame-23,MONOLITH,Classic,Black,Square,Large,1699,explicit_dislike,0
+cust_0017,sess_0017_1,2026-10-01T20:07:00,Classic,Teal,"₹1,000 - ₹1,200",1200,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,add_to_cart,1
+cust_0017,sess_0017_1,2026-09-24T12:38:00,Classic,Teal,"₹1,000 - ₹1,200",1200,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,purchase,1
+cust_0018,sess_0018_1,2026-10-16T13:04:00,Casual,Brown,"₹1,201 - ₹1,500",1500,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,dismiss,0
+cust_0018,sess_0018_1,2026-09-07T14:54:00,Casual,Brown,"₹1,201 - ₹1,500",1500,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_dislike,0
+cust_0018,sess_0018_1,2026-09-23T18:27:00,Casual,Brown,"₹1,201 - ₹1,500",1500,frame-2,KENNETH,Modern,Teal,Square,Large,1499,explicit_dislike,0
+cust_0018,sess_0018_1,2026-09-01T16:52:00,Casual,Brown,"₹1,201 - ₹1,500",1500,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,purchase,1
+cust_0018,sess_0018_1,2026-10-11T17:45:00,Casual,Brown,"₹1,201 - ₹1,500",1500,frame-37,STRATA,Modern,Black,Square,Medium,1599,dismiss,0
+cust_0019,sess_0019_1,2026-09-16T11:17:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-40,NORDIC,Modern,Black,Square,Large,1899,dismiss,0
+cust_0019,sess_0019_1,2026-10-07T19:42:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_like,1
+cust_0019,sess_0019_1,2026-09-12T17:13:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,purchase,1
+cust_0019,sess_0019_1,2026-10-09T14:35:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,purchase,1
+cust_0019,sess_0019_1,2026-09-16T16:31:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,explicit_dislike,0
+cust_0020,sess_0020_1,2026-10-01T18:33:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,purchase,1
+cust_0020,sess_0020_1,2026-09-23T17:17:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-2,KENNETH,Modern,Teal,Square,Large,1499,dismiss,0
+cust_0020,sess_0020_1,2026-09-21T11:47:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,add_to_cart,1
+cust_0020,sess_0020_1,2026-09-13T13:47:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,explicit_dislike,0
+cust_0020,sess_0020_1,2026-09-07T13:18:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,dismiss,0
+cust_0020,sess_0020_1,2026-10-16T18:08:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,favourite,1
+cust_0021,sess_0021_1,2026-09-12T10:16:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,dismiss,0
+cust_0021,sess_0021_1,2026-09-26T17:04:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,favourite,1
+cust_0021,sess_0021_1,2026-09-10T19:19:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,explicit_dislike,0
+cust_0021,sess_0021_1,2026-10-09T19:50:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_like,1
+cust_0021,sess_0021_1,2026-09-29T17:19:00,Trendy,Black,"₹1,000 - ₹1,200",1200,frame-37,STRATA,Modern,Black,Square,Medium,1599,dismiss,0
+cust_0022,sess_0022_1,2026-09-11T13:11:00,Casual,Burgundy,"₹1,501 - ₹1,800",1800,frame-40,NORDIC,Modern,Black,Square,Large,1899,favourite,1
+cust_0022,sess_0022_1,2026-09-29T19:30:00,Casual,Burgundy,"₹1,501 - ₹1,800",1800,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,explicit_like,1
+cust_0022,sess_0022_1,2026-10-15T17:04:00,Casual,Burgundy,"₹1,501 - ₹1,800",1800,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,purchase,1
+cust_0023,sess_0023_1,2026-09-05T10:10:00,Modern,Transparent,Any Budget,2000,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,explicit_dislike,0
+cust_0023,sess_0023_1,2026-09-29T11:29:00,Modern,Transparent,Any Budget,2000,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,purchase,1
+cust_0023,sess_0023_1,2026-10-03T18:31:00,Modern,Transparent,Any Budget,2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,dismiss,0
+cust_0023,sess_0023_1,2026-09-21T19:16:00,Modern,Transparent,Any Budget,2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,dismiss,0
+cust_0024,sess_0024_1,2026-09-18T12:37:00,Classic,Brown,"₹1,201 - ₹1,500",1500,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,explicit_like,1
+cust_0024,sess_0024_1,2026-10-01T15:26:00,Classic,Brown,"₹1,201 - ₹1,500",1500,frame-37,STRATA,Modern,Black,Square,Medium,1599,explicit_dislike,0
+cust_0024,sess_0024_1,2026-09-22T16:44:00,Classic,Brown,"₹1,201 - ₹1,500",1500,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,explicit_dislike,0
+cust_0025,sess_0025_1,2026-10-03T10:42:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,explicit_like,1
+cust_0025,sess_0025_1,2026-09-13T18:23:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,favourite,1
+cust_0025,sess_0025_1,2026-09-04T13:17:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_like,1
+cust_0026,sess_0026_1,2026-09-15T11:29:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,favourite,1
+cust_0026,sess_0026_1,2026-10-02T14:32:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,add_to_cart,1
+cust_0026,sess_0026_1,2026-10-01T13:29:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-2,KENNETH,Modern,Teal,Square,Large,1499,explicit_like,1
+cust_0026,sess_0026_1,2026-09-05T14:49:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,add_to_cart,1
+cust_0026,sess_0026_1,2026-09-01T14:46:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,purchase,1
+cust_0026,sess_0026_1,2026-09-10T17:34:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0027,sess_0027_1,2026-10-01T16:24:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,purchase,1
+cust_0027,sess_0027_1,2026-10-02T10:08:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,add_to_cart,1
+cust_0027,sess_0027_1,2026-09-29T11:33:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,favourite,1
+cust_0027,sess_0027_1,2026-09-27T20:09:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,add_to_cart,1
+cust_0027,sess_0027_1,2026-09-22T19:44:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,dismiss,0
+cust_0027,sess_0027_1,2026-10-14T18:24:00,Professional,No Preference,"₹1,501 - ₹1,800",1800,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,purchase,1
+cust_0028,sess_0028_1,2026-09-06T16:06:00,Trendy,Teal,Any Budget,2000,frame-40,NORDIC,Modern,Black,Square,Large,1899,explicit_dislike,0
+cust_0028,sess_0028_1,2026-09-29T12:44:00,Trendy,Teal,Any Budget,2000,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,explicit_dislike,0
+cust_0028,sess_0028_1,2026-09-04T14:22:00,Trendy,Teal,Any Budget,2000,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,purchase,1
+cust_0029,sess_0029_1,2026-10-10T20:15:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_like,1
+cust_0029,sess_0029_1,2026-09-30T20:16:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_dislike,0
+cust_0029,sess_0029_1,2026-09-19T20:34:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-37,STRATA,Modern,Black,Square,Medium,1599,dismiss,0
+cust_0029,sess_0029_1,2026-10-08T14:40:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,dismiss,0
+cust_0030,sess_0030_1,2026-10-15T14:01:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,purchase,1
+cust_0030,sess_0030_1,2026-09-01T19:55:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,dismiss,0
+cust_0030,sess_0030_1,2026-10-09T17:53:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0
+cust_0030,sess_0030_1,2026-10-09T15:14:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,add_to_cart,1
+cust_0030,sess_0030_1,2026-10-11T11:57:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_dislike,0
+cust_0031,sess_0031_1,2026-09-12T13:08:00,Classic,Transparent,"₹1,801 - ₹2,000",2000,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_like,1
+cust_0031,sess_0031_1,2026-10-04T18:58:00,Classic,Transparent,"₹1,801 - ₹2,000",2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,dismiss,0
+cust_0031,sess_0031_1,2026-09-19T15:51:00,Classic,Transparent,"₹1,801 - ₹2,000",2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_like,1
+cust_0032,sess_0032_1,2026-10-05T11:29:00,Classic,Teal,"₹1,000 - ₹1,200",1200,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,dismiss,0
+cust_0032,sess_0032_1,2026-10-08T16:52:00,Classic,Teal,"₹1,000 - ₹1,200",1200,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,dismiss,0
+cust_0032,sess_0032_1,2026-10-01T10:39:00,Classic,Teal,"₹1,000 - ₹1,200",1200,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_dislike,0
+cust_0032,sess_0032_1,2026-10-12T11:40:00,Classic,Teal,"₹1,000 - ₹1,200",1200,frame-24,PACIFICA,Casual,Black,Square,Large,1099,add_to_cart,1
+cust_0033,sess_0033_1,2026-10-05T12:24:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,add_to_cart,1
+cust_0033,sess_0033_1,2026-10-08T12:56:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,dismiss,0
+cust_0033,sess_0033_1,2026-10-10T16:17:00,Professional,Transparent,"₹1,801 - ₹2,000",2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,explicit_like,1
+cust_0034,sess_0034_1,2026-09-26T14:12:00,Classic,No Preference,"₹1,201 - ₹1,500",1500,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,explicit_dislike,0
+cust_0034,sess_0034_1,2026-09-06T20:13:00,Classic,No Preference,"₹1,201 - ₹1,500",1500,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,dismiss,0
+cust_0034,sess_0034_1,2026-09-04T15:15:00,Classic,No Preference,"₹1,201 - ₹1,500",1500,frame-24,PACIFICA,Casual,Black,Square,Large,1099,favourite,1
+cust_0034,sess_0034_1,2026-09-05T18:13:00,Classic,No Preference,"₹1,201 - ₹1,500",1500,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,add_to_cart,1
+cust_0034,sess_0034_1,2026-09-22T12:50:00,Classic,No Preference,"₹1,201 - ₹1,500",1500,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_dislike,0
+cust_0034,sess_0034_1,2026-09-09T18:16:00,Classic,No Preference,"₹1,201 - ₹1,500",1500,frame-35,MILANO,Classic,Black,Square,Medium,1899,add_to_cart,1
+cust_0035,sess_0035_1,2026-09-09T16:33:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,favourite,1
+cust_0035,sess_0035_1,2026-09-24T18:37:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-23,MONOLITH,Classic,Black,Square,Large,1699,explicit_like,1
+cust_0035,sess_0035_1,2026-10-13T18:19:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_dislike,0
+cust_0035,sess_0035_1,2026-10-01T16:27:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_dislike,0
+cust_0036,sess_0036_1,2026-09-25T19:33:00,Classic,Teal,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,purchase,1
+cust_0036,sess_0036_1,2026-09-07T11:54:00,Classic,Teal,"₹1,801 - ₹2,000",2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_like,1
+cust_0036,sess_0036_1,2026-09-28T17:56:00,Classic,Teal,"₹1,801 - ₹2,000",2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,explicit_dislike,0
+cust_0037,sess_0037_1,2026-10-14T17:04:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,add_to_cart,1
+cust_0037,sess_0037_1,2026-09-07T15:51:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_like,1
+cust_0037,sess_0037_1,2026-10-13T11:26:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,purchase,1
+cust_0037,sess_0037_1,2026-09-04T14:38:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,dismiss,0
+cust_0037,sess_0037_1,2026-09-10T20:30:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,add_to_cart,1
+cust_0037,sess_0037_1,2026-09-08T14:36:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-37,STRATA,Modern,Black,Square,Medium,1599,purchase,1
+cust_0038,sess_0038_1,2026-09-22T15:00:00,Modern,Burgundy,Any Budget,2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,dismiss,0
+cust_0038,sess_0038_1,2026-09-05T12:47:00,Modern,Burgundy,Any Budget,2000,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,explicit_like,1
+cust_0038,sess_0038_1,2026-09-25T16:29:00,Modern,Burgundy,Any Budget,2000,frame-2,KENNETH,Modern,Teal,Square,Large,1499,add_to_cart,1
+cust_0039,sess_0039_1,2026-10-14T11:17:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_dislike,0
+cust_0039,sess_0039_1,2026-09-27T14:13:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-37,STRATA,Modern,Black,Square,Medium,1599,explicit_like,1
+cust_0039,sess_0039_1,2026-09-08T14:43:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,explicit_like,1
+cust_0039,sess_0039_1,2026-09-03T13:25:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,dismiss,0
+cust_0039,sess_0039_1,2026-09-20T13:49:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-4,MICHEL,Classic,Copper,Round,Small,1099,add_to_cart,1
+cust_0040,sess_0040_1,2026-10-03T18:53:00,Modern,Transparent,"₹1,501 - ₹1,800",1800,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,add_to_cart,1
+cust_0040,sess_0040_1,2026-09-03T16:01:00,Modern,Transparent,"₹1,501 - ₹1,800",1800,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_like,1
+cust_0040,sess_0040_1,2026-10-07T16:36:00,Modern,Transparent,"₹1,501 - ₹1,800",1800,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,purchase,1
+cust_0040,sess_0040_1,2026-09-08T16:01:00,Modern,Transparent,"₹1,501 - ₹1,800",1800,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,dismiss,0
+cust_0040,sess_0040_1,2026-10-15T15:05:00,Modern,Transparent,"₹1,501 - ₹1,800",1800,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_like,1
+cust_0041,sess_0041_1,2026-09-05T18:40:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,add_to_cart,1
+cust_0041,sess_0041_1,2026-09-23T20:52:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,purchase,1
+cust_0041,sess_0041_1,2026-09-13T12:38:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,purchase,1
+cust_0041,sess_0041_1,2026-09-12T20:31:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,explicit_dislike,0
+cust_0041,sess_0041_1,2026-10-14T19:41:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,dismiss,0
+cust_0041,sess_0041_1,2026-09-10T17:04:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0042,sess_0042_1,2026-09-24T14:04:00,Professional,Teal,"₹1,501 - ₹1,800",1800,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_dislike,0
+cust_0042,sess_0042_1,2026-10-10T19:32:00,Professional,Teal,"₹1,501 - ₹1,800",1800,frame-4,MICHEL,Classic,Copper,Round,Small,1099,explicit_dislike,0
+cust_0042,sess_0042_1,2026-09-29T19:41:00,Professional,Teal,"₹1,501 - ₹1,800",1800,frame-23,MONOLITH,Classic,Black,Square,Large,1699,favourite,1
+cust_0042,sess_0042_1,2026-09-04T17:06:00,Professional,Teal,"₹1,501 - ₹1,800",1800,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0042,sess_0042_1,2026-10-03T20:11:00,Professional,Teal,"₹1,501 - ₹1,800",1800,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,explicit_dislike,0
+cust_0043,sess_0043_1,2026-10-11T20:21:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0043,sess_0043_1,2026-09-19T14:46:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-40,NORDIC,Modern,Black,Square,Large,1899,explicit_like,1
+cust_0043,sess_0043_1,2026-09-22T11:37:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_dislike,0
+cust_0043,sess_0043_1,2026-10-12T20:25:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,dismiss,0
+cust_0043,sess_0043_1,2026-09-20T18:24:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-37,STRATA,Modern,Black,Square,Medium,1599,explicit_dislike,0
+cust_0043,sess_0043_1,2026-10-13T20:58:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,add_to_cart,1
+cust_0044,sess_0044_1,2026-09-15T12:09:00,Casual,Brown,"₹1,801 - ₹2,000",2000,frame-2,KENNETH,Modern,Teal,Square,Large,1499,explicit_dislike,0
+cust_0044,sess_0044_1,2026-10-03T18:53:00,Casual,Brown,"₹1,801 - ₹2,000",2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_dislike,0
+cust_0044,sess_0044_1,2026-10-10T12:38:00,Casual,Brown,"₹1,801 - ₹2,000",2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,purchase,1
+cust_0044,sess_0044_1,2026-09-29T10:26:00,Casual,Brown,"₹1,801 - ₹2,000",2000,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,add_to_cart,1
+cust_0044,sess_0044_1,2026-10-10T14:48:00,Casual,Brown,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,dismiss,0
+cust_0045,sess_0045_1,2026-09-30T14:49:00,Professional,Silver,Any Budget,2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,explicit_like,1
+cust_0045,sess_0045_1,2026-09-13T19:08:00,Professional,Silver,Any Budget,2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0
+cust_0045,sess_0045_1,2026-09-24T18:59:00,Professional,Silver,Any Budget,2000,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,explicit_like,1
+cust_0045,sess_0045_1,2026-09-19T11:48:00,Professional,Silver,Any Budget,2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_dislike,0
+cust_0046,sess_0046_1,2026-09-04T16:32:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,dismiss,0
+cust_0046,sess_0046_1,2026-09-24T13:01:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,favourite,1
+cust_0046,sess_0046_1,2026-09-10T12:02:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,purchase,1
+cust_0046,sess_0046_1,2026-10-16T17:28:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,explicit_dislike,0
+cust_0047,sess_0047_1,2026-09-08T14:15:00,Casual,Black,"₹1,000 - ₹1,200",1200,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,dismiss,0
+cust_0047,sess_0047_1,2026-10-11T19:29:00,Casual,Black,"₹1,000 - ₹1,200",1200,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,explicit_like,1
+cust_0047,sess_0047_1,2026-10-09T18:01:00,Casual,Black,"₹1,000 - ₹1,200",1200,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,dismiss,0
+cust_0048,sess_0048_1,2026-10-04T15:04:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,favourite,1
+cust_0048,sess_0048_1,2026-09-25T17:02:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,favourite,1
+cust_0048,sess_0048_1,2026-09-02T15:50:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-40,NORDIC,Modern,Black,Square,Large,1899,dismiss,0
+cust_0048,sess_0048_1,2026-10-08T15:08:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-23,MONOLITH,Classic,Black,Square,Large,1699,favourite,1
+cust_0048,sess_0048_1,2026-10-14T17:44:00,Casual,Silver,"₹1,201 - ₹1,500",1500,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_dislike,0
+cust_0049,sess_0049_1,2026-09-21T14:32:00,Professional,Gold,"₹1,201 - ₹1,500",1500,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,explicit_dislike,0
+cust_0049,sess_0049_1,2026-09-17T10:48:00,Professional,Gold,"₹1,201 - ₹1,500",1500,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,dismiss,0
+cust_0049,sess_0049_1,2026-10-12T15:17:00,Professional,Gold,"₹1,201 - ₹1,500",1500,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,favourite,1
+cust_0050,sess_0050_1,2026-09-06T16:05:00,Classic,No Preference,"₹1,801 - ₹2,000",2000,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,dismiss,0
+cust_0050,sess_0050_1,2026-10-05T14:20:00,Classic,No Preference,"₹1,801 - ₹2,000",2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,explicit_dislike,0
+cust_0050,sess_0050_1,2026-09-20T17:38:00,Classic,No Preference,"₹1,801 - ₹2,000",2000,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,purchase,1
+cust_0050,sess_0050_1,2026-09-23T17:02:00,Classic,No Preference,"₹1,801 - ₹2,000",2000,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_like,1
+cust_0050,sess_0050_1,2026-09-18T20:50:00,Classic,No Preference,"₹1,801 - ₹2,000",2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,dismiss,0
+cust_0050,sess_0050_1,2026-09-24T18:51:00,Classic,No Preference,"₹1,801 - ₹2,000",2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0051,sess_0051_1,2026-10-14T17:23:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,explicit_dislike,0
+cust_0051,sess_0051_1,2026-10-04T15:25:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_dislike,0
+cust_0051,sess_0051_1,2026-09-02T12:31:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,favourite,1
+cust_0051,sess_0051_1,2026-09-17T14:45:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_dislike,0
+cust_0051,sess_0051_1,2026-10-15T17:12:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-24,PACIFICA,Casual,Black,Square,Large,1099,dismiss,0
+cust_0051,sess_0051_1,2026-09-12T17:05:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,dismiss,0
+cust_0052,sess_0052_1,2026-09-16T17:01:00,Trendy,No Preference,"₹1,000 - ₹1,200",1200,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,explicit_dislike,0
+cust_0052,sess_0052_1,2026-10-06T12:39:00,Trendy,No Preference,"₹1,000 - ₹1,200",1200,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_like,1
+cust_0052,sess_0052_1,2026-10-16T17:33:00,Trendy,No Preference,"₹1,000 - ₹1,200",1200,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_like,1
+cust_0052,sess_0052_1,2026-09-09T15:41:00,Trendy,No Preference,"₹1,000 - ₹1,200",1200,frame-24,PACIFICA,Casual,Black,Square,Large,1099,favourite,1
+cust_0052,sess_0052_1,2026-09-09T18:40:00,Trendy,No Preference,"₹1,000 - ₹1,200",1200,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0053,sess_0053_1,2026-09-23T18:57:00,Casual,Gold,"₹1,201 - ₹1,500",1500,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0053,sess_0053_1,2026-10-11T18:17:00,Casual,Gold,"₹1,201 - ₹1,500",1500,frame-4,MICHEL,Classic,Copper,Round,Small,1099,add_to_cart,1
+cust_0053,sess_0053_1,2026-10-03T20:10:00,Casual,Gold,"₹1,201 - ₹1,500",1500,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,favourite,1
+cust_0053,sess_0053_1,2026-10-13T19:46:00,Casual,Gold,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,add_to_cart,1
+cust_0053,sess_0053_1,2026-09-02T11:02:00,Casual,Gold,"₹1,201 - ₹1,500",1500,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,favourite,1
+cust_0053,sess_0053_1,2026-10-12T13:49:00,Casual,Gold,"₹1,201 - ₹1,500",1500,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0054,sess_0054_1,2026-10-14T16:19:00,Casual,Burgundy,Any Budget,2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,add_to_cart,1
+cust_0054,sess_0054_1,2026-09-29T16:30:00,Casual,Burgundy,Any Budget,2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_dislike,0
+cust_0054,sess_0054_1,2026-09-21T15:46:00,Casual,Burgundy,Any Budget,2000,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,add_to_cart,1
+cust_0055,sess_0055_1,2026-09-10T11:03:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0055,sess_0055_1,2026-09-16T12:52:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0055,sess_0055_1,2026-09-13T12:31:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,dismiss,0
+cust_0055,sess_0055_1,2026-10-02T10:05:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,purchase,1
+cust_0055,sess_0055_1,2026-09-14T19:22:00,Trendy,Burgundy,"₹1,201 - ₹1,500",1500,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_dislike,0
+cust_0056,sess_0056_1,2026-09-26T15:02:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,dismiss,0
+cust_0056,sess_0056_1,2026-09-24T18:18:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0
+cust_0056,sess_0056_1,2026-10-10T20:39:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,purchase,1
+cust_0056,sess_0056_1,2026-09-24T15:35:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-35,MILANO,Classic,Black,Square,Medium,1899,dismiss,0
+cust_0056,sess_0056_1,2026-10-09T18:25:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_dislike,0
+cust_0056,sess_0056_1,2026-10-16T15:51:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,add_to_cart,1
+cust_0057,sess_0057_1,2026-10-10T14:37:00,Professional,Rose Gold,"₹1,801 - ₹2,000",2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,explicit_like,1
+cust_0057,sess_0057_1,2026-10-16T19:19:00,Professional,Rose Gold,"₹1,801 - ₹2,000",2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0057,sess_0057_1,2026-10-14T11:26:00,Professional,Rose Gold,"₹1,801 - ₹2,000",2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,purchase,1
+cust_0057,sess_0057_1,2026-10-09T17:16:00,Professional,Rose Gold,"₹1,801 - ₹2,000",2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_dislike,0
+cust_0058,sess_0058_1,2026-09-02T17:20:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_dislike,0
+cust_0058,sess_0058_1,2026-09-27T18:49:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,add_to_cart,1
+cust_0058,sess_0058_1,2026-10-16T12:33:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,favourite,1
+cust_0058,sess_0058_1,2026-10-04T16:20:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,dismiss,0
+cust_0058,sess_0058_1,2026-10-05T15:43:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,purchase,1
+cust_0058,sess_0058_1,2026-10-10T17:12:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,dismiss,0
+cust_0059,sess_0059_1,2026-09-19T11:36:00,Modern,Transparent,Any Budget,2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,purchase,1
+cust_0059,sess_0059_1,2026-09-23T12:18:00,Modern,Transparent,Any Budget,2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,explicit_like,1
+cust_0059,sess_0059_1,2026-09-23T17:41:00,Modern,Transparent,Any Budget,2000,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,explicit_dislike,0
+cust_0059,sess_0059_1,2026-10-05T14:59:00,Modern,Transparent,Any Budget,2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,add_to_cart,1
+cust_0059,sess_0059_1,2026-10-10T19:15:00,Modern,Transparent,Any Budget,2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,favourite,1
+cust_0060,sess_0060_1,2026-09-01T18:59:00,Modern,Black,Any Budget,2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,add_to_cart,1
+cust_0060,sess_0060_1,2026-10-01T20:12:00,Modern,Black,Any Budget,2000,frame-4,MICHEL,Classic,Copper,Round,Small,1099,dismiss,0
+cust_0060,sess_0060_1,2026-10-12T10:58:00,Modern,Black,Any Budget,2000,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,purchase,1
+cust_0060,sess_0060_1,2026-10-05T10:58:00,Modern,Black,Any Budget,2000,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_dislike,0
+cust_0061,sess_0061_1,2026-09-03T10:19:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,dismiss,0
+cust_0061,sess_0061_1,2026-09-19T17:41:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,purchase,1
+cust_0061,sess_0061_1,2026-10-03T17:17:00,Modern,Burgundy,"₹1,201 - ₹1,500",1500,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_dislike,0
+cust_0062,sess_0062_1,2026-09-12T19:54:00,Modern,Brown,"₹1,501 - ₹1,800",1800,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,explicit_dislike,0
+cust_0062,sess_0062_1,2026-10-03T15:05:00,Modern,Brown,"₹1,501 - ₹1,800",1800,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_like,1
+cust_0062,sess_0062_1,2026-10-01T15:59:00,Modern,Brown,"₹1,501 - ₹1,800",1800,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,add_to_cart,1
+cust_0062,sess_0062_1,2026-09-29T14:21:00,Modern,Brown,"₹1,501 - ₹1,800",1800,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,add_to_cart,1
+cust_0063,sess_0063_1,2026-10-15T11:40:00,Trendy,Black,"₹1,501 - ₹1,800",1800,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,dismiss,0
+cust_0063,sess_0063_1,2026-09-15T12:30:00,Trendy,Black,"₹1,501 - ₹1,800",1800,frame-4,MICHEL,Classic,Copper,Round,Small,1099,add_to_cart,1
+cust_0063,sess_0063_1,2026-09-27T18:58:00,Trendy,Black,"₹1,501 - ₹1,800",1800,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,dismiss,0
+cust_0063,sess_0063_1,2026-09-16T20:48:00,Trendy,Black,"₹1,501 - ₹1,800",1800,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,add_to_cart,1
+cust_0063,sess_0063_1,2026-10-04T15:04:00,Trendy,Black,"₹1,501 - ₹1,800",1800,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0064,sess_0064_1,2026-10-14T13:45:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-37,STRATA,Modern,Black,Square,Medium,1599,explicit_dislike,0
+cust_0064,sess_0064_1,2026-09-04T17:08:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_like,1
+cust_0064,sess_0064_1,2026-10-06T17:43:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,favourite,1
+cust_0064,sess_0064_1,2026-09-17T10:47:00,Casual,Brown,"₹1,000 - ₹1,200",1200,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,dismiss,0
+cust_0065,sess_0065_1,2026-10-12T20:26:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-23,MONOLITH,Classic,Black,Square,Large,1699,explicit_dislike,0
+cust_0065,sess_0065_1,2026-09-25T16:05:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,dismiss,0
+cust_0065,sess_0065_1,2026-10-12T15:07:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_dislike,0
+cust_0065,sess_0065_1,2026-09-15T10:48:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-4,MICHEL,Classic,Copper,Round,Small,1099,explicit_dislike,0
+cust_0065,sess_0065_1,2026-10-05T16:52:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,explicit_like,1
+cust_0065,sess_0065_1,2026-09-18T13:59:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,add_to_cart,1
+cust_0066,sess_0066_1,2026-09-16T10:25:00,Classic,Black,"₹1,801 - ₹2,000",2000,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,favourite,1
+cust_0066,sess_0066_1,2026-09-09T18:18:00,Classic,Black,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,favourite,1
+cust_0066,sess_0066_1,2026-10-07T19:49:00,Classic,Black,"₹1,801 - ₹2,000",2000,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,dismiss,0
+cust_0067,sess_0067_1,2026-10-11T20:27:00,Trendy,Silver,"₹1,501 - ₹1,800",1800,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0067,sess_0067_1,2026-10-12T20:24:00,Trendy,Silver,"₹1,501 - ₹1,800",1800,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,purchase,1
+cust_0067,sess_0067_1,2026-09-27T12:19:00,Trendy,Silver,"₹1,501 - ₹1,800",1800,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_like,1
+cust_0067,sess_0067_1,2026-09-16T13:19:00,Trendy,Silver,"₹1,501 - ₹1,800",1800,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0068,sess_0068_1,2026-09-29T15:05:00,Modern,Teal,"₹1,000 - ₹1,200",1200,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_dislike,0
+cust_0068,sess_0068_1,2026-09-18T16:43:00,Modern,Teal,"₹1,000 - ₹1,200",1200,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_dislike,0
+cust_0068,sess_0068_1,2026-09-13T19:46:00,Modern,Teal,"₹1,000 - ₹1,200",1200,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,favourite,1
+cust_0068,sess_0068_1,2026-09-22T14:58:00,Modern,Teal,"₹1,000 - ₹1,200",1200,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,add_to_cart,1
+cust_0068,sess_0068_1,2026-10-01T13:44:00,Modern,Teal,"₹1,000 - ₹1,200",1200,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,explicit_dislike,0
+cust_0068,sess_0068_1,2026-10-06T15:49:00,Modern,Teal,"₹1,000 - ₹1,200",1200,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,add_to_cart,1
+cust_0069,sess_0069_1,2026-09-21T13:23:00,Trendy,Burgundy,"₹1,801 - ₹2,000",2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0069,sess_0069_1,2026-09-10T10:16:00,Trendy,Burgundy,"₹1,801 - ₹2,000",2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,add_to_cart,1
+cust_0069,sess_0069_1,2026-09-19T12:12:00,Trendy,Burgundy,"₹1,801 - ₹2,000",2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,dismiss,0
+cust_0069,sess_0069_1,2026-10-02T18:41:00,Trendy,Burgundy,"₹1,801 - ₹2,000",2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,add_to_cart,1
+cust_0069,sess_0069_1,2026-10-12T17:29:00,Trendy,Burgundy,"₹1,801 - ₹2,000",2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,explicit_like,1
+cust_0070,sess_0070_1,2026-10-13T10:48:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_dislike,0
+cust_0070,sess_0070_1,2026-09-05T12:00:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,add_to_cart,1
+cust_0070,sess_0070_1,2026-10-10T20:42:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,favourite,1
+cust_0070,sess_0070_1,2026-09-02T10:34:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-4,MICHEL,Classic,Copper,Round,Small,1099,dismiss,0
+cust_0071,sess_0071_1,2026-09-12T11:58:00,Casual,Burgundy,"₹1,000 - ₹1,200",1200,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_like,1
+cust_0071,sess_0071_1,2026-10-10T18:16:00,Casual,Burgundy,"₹1,000 - ₹1,200",1200,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,add_to_cart,1
+cust_0071,sess_0071_1,2026-09-06T15:25:00,Casual,Burgundy,"₹1,000 - ₹1,200",1200,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_like,1
+cust_0072,sess_0072_1,2026-09-06T17:54:00,Professional,Silver,"₹1,201 - ₹1,500",1500,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,add_to_cart,1
+cust_0072,sess_0072_1,2026-10-04T10:14:00,Professional,Silver,"₹1,201 - ₹1,500",1500,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,explicit_dislike,0
+cust_0072,sess_0072_1,2026-09-18T10:59:00,Professional,Silver,"₹1,201 - ₹1,500",1500,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,dismiss,0
+cust_0072,sess_0072_1,2026-09-12T15:01:00,Professional,Silver,"₹1,201 - ₹1,500",1500,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,explicit_dislike,0
+cust_0072,sess_0072_1,2026-09-05T14:10:00,Professional,Silver,"₹1,201 - ₹1,500",1500,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,dismiss,0
+cust_0073,sess_0073_1,2026-09-28T13:53:00,Casual,Silver,Any Budget,2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,favourite,1
+cust_0073,sess_0073_1,2026-09-21T10:40:00,Casual,Silver,Any Budget,2000,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,dismiss,0
+cust_0073,sess_0073_1,2026-09-15T15:35:00,Casual,Silver,Any Budget,2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,dismiss,0
+cust_0073,sess_0073_1,2026-09-06T19:18:00,Casual,Silver,Any Budget,2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_like,1
+cust_0073,sess_0073_1,2026-09-18T12:24:00,Casual,Silver,Any Budget,2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,explicit_dislike,0
+cust_0073,sess_0073_1,2026-09-21T15:06:00,Casual,Silver,Any Budget,2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0074,sess_0074_1,2026-09-07T10:05:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_like,1
+cust_0074,sess_0074_1,2026-09-25T10:18:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,purchase,1
+cust_0074,sess_0074_1,2026-10-07T18:10:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,explicit_dislike,0
+cust_0074,sess_0074_1,2026-09-20T14:31:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,purchase,1
+cust_0074,sess_0074_1,2026-09-27T14:30:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,purchase,1
+cust_0074,sess_0074_1,2026-10-11T17:38:00,Classic,Black,"₹1,501 - ₹1,800",1800,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,add_to_cart,1
+cust_0075,sess_0075_1,2026-09-22T17:21:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_like,1
+cust_0075,sess_0075_1,2026-09-20T15:38:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,explicit_dislike,0
+cust_0075,sess_0075_1,2026-09-12T16:20:00,Casual,Silver,"₹1,801 - ₹2,000",2000,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,purchase,1
+cust_0076,sess_0076_1,2026-10-08T18:11:00,Trendy,Teal,Any Budget,2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_dislike,0
+cust_0076,sess_0076_1,2026-10-16T13:28:00,Trendy,Teal,Any Budget,2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,explicit_like,1
+cust_0076,sess_0076_1,2026-09-27T20:31:00,Trendy,Teal,Any Budget,2000,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,explicit_dislike,0
+cust_0076,sess_0076_1,2026-10-13T12:45:00,Trendy,Teal,Any Budget,2000,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,purchase,1
+cust_0077,sess_0077_1,2026-10-05T10:50:00,Professional,Burgundy,"₹1,000 - ₹1,200",1200,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,dismiss,0
+cust_0077,sess_0077_1,2026-09-07T13:42:00,Professional,Burgundy,"₹1,000 - ₹1,200",1200,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0
+cust_0077,sess_0077_1,2026-10-07T20:43:00,Professional,Burgundy,"₹1,000 - ₹1,200",1200,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,favourite,1
+cust_0077,sess_0077_1,2026-09-28T11:00:00,Professional,Burgundy,"₹1,000 - ₹1,200",1200,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,dismiss,0
+cust_0077,sess_0077_1,2026-09-29T15:25:00,Professional,Burgundy,"₹1,000 - ₹1,200",1200,frame-35,MILANO,Classic,Black,Square,Medium,1899,add_to_cart,1
+cust_0077,sess_0077_1,2026-09-23T10:30:00,Professional,Burgundy,"₹1,000 - ₹1,200",1200,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0078,sess_0078_1,2026-10-04T17:22:00,Classic,Transparent,"₹1,801 - ₹2,000",2000,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,explicit_dislike,0
+cust_0078,sess_0078_1,2026-09-21T11:19:00,Classic,Transparent,"₹1,801 - ₹2,000",2000,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,explicit_like,1
+cust_0078,sess_0078_1,2026-09-22T20:06:00,Classic,Transparent,"₹1,801 - ₹2,000",2000,frame-23,MONOLITH,Classic,Black,Square,Large,1699,explicit_dislike,0
+cust_0079,sess_0079_1,2026-10-11T12:11:00,Modern,Silver,Any Budget,2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0079,sess_0079_1,2026-10-10T13:28:00,Modern,Silver,Any Budget,2000,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,favourite,1
+cust_0079,sess_0079_1,2026-09-14T14:48:00,Modern,Silver,Any Budget,2000,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,add_to_cart,1
+cust_0079,sess_0079_1,2026-10-05T12:23:00,Modern,Silver,Any Budget,2000,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,favourite,1
+cust_0080,sess_0080_1,2026-10-10T16:37:00,Trendy,Silver,"₹1,801 - ₹2,000",2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_like,1
+cust_0080,sess_0080_1,2026-10-10T12:52:00,Trendy,Silver,"₹1,801 - ₹2,000",2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,explicit_like,1
+cust_0080,sess_0080_1,2026-10-14T12:20:00,Trendy,Silver,"₹1,801 - ₹2,000",2000,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0081,sess_0081_1,2026-10-07T16:27:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,add_to_cart,1
+cust_0081,sess_0081_1,2026-10-06T12:31:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_dislike,0
+cust_0081,sess_0081_1,2026-10-10T10:55:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,explicit_like,1
+cust_0082,sess_0082_1,2026-09-27T17:31:00,Trendy,Black,"₹1,801 - ₹2,000",2000,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,explicit_like,1
+cust_0082,sess_0082_1,2026-09-19T10:17:00,Trendy,Black,"₹1,801 - ₹2,000",2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,add_to_cart,1
+cust_0082,sess_0082_1,2026-10-07T17:35:00,Trendy,Black,"₹1,801 - ₹2,000",2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0082,sess_0082_1,2026-10-05T15:34:00,Trendy,Black,"₹1,801 - ₹2,000",2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0083,sess_0083_1,2026-09-23T11:28:00,Classic,Teal,Any Budget,2000,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,purchase,1
+cust_0083,sess_0083_1,2026-09-14T19:44:00,Classic,Teal,Any Budget,2000,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,add_to_cart,1
+cust_0083,sess_0083_1,2026-09-11T19:08:00,Classic,Teal,Any Budget,2000,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,dismiss,0
+cust_0083,sess_0083_1,2026-10-07T15:34:00,Classic,Teal,Any Budget,2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,explicit_dislike,0
+cust_0084,sess_0084_1,2026-09-04T14:55:00,Trendy,Rose Gold,"₹1,201 - ₹1,500",1500,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,dismiss,0
+cust_0084,sess_0084_1,2026-09-16T12:45:00,Trendy,Rose Gold,"₹1,201 - ₹1,500",1500,frame-37,STRATA,Modern,Black,Square,Medium,1599,explicit_dislike,0
+cust_0084,sess_0084_1,2026-10-02T12:36:00,Trendy,Rose Gold,"₹1,201 - ₹1,500",1500,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,explicit_like,1
+cust_0084,sess_0084_1,2026-09-29T11:40:00,Trendy,Rose Gold,"₹1,201 - ₹1,500",1500,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0084,sess_0084_1,2026-10-03T14:44:00,Trendy,Rose Gold,"₹1,201 - ₹1,500",1500,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,dismiss,0
+cust_0085,sess_0085_1,2026-09-14T16:52:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,dismiss,0
+cust_0085,sess_0085_1,2026-09-22T18:36:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,purchase,1
+cust_0085,sess_0085_1,2026-10-14T10:02:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,dismiss,0
+cust_0085,sess_0085_1,2026-09-02T11:59:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,dismiss,0
+cust_0085,sess_0085_1,2026-09-28T13:44:00,Trendy,Teal,"₹1,801 - ₹2,000",2000,frame-23,MONOLITH,Classic,Black,Square,Large,1699,favourite,1
+cust_0086,sess_0086_1,2026-09-28T20:05:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,add_to_cart,1
+cust_0086,sess_0086_1,2026-09-05T12:37:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_like,1
+cust_0086,sess_0086_1,2026-09-01T15:52:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_dislike,0
+cust_0086,sess_0086_1,2026-10-01T11:14:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_dislike,0
+cust_0086,sess_0086_1,2026-09-07T15:23:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-4,MICHEL,Classic,Copper,Round,Small,1099,explicit_dislike,0
+cust_0087,sess_0087_1,2026-09-23T13:40:00,Trendy,Gold,"₹1,801 - ₹2,000",2000,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,dismiss,0
+cust_0087,sess_0087_1,2026-09-14T11:57:00,Trendy,Gold,"₹1,801 - ₹2,000",2000,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,dismiss,0
+cust_0087,sess_0087_1,2026-09-23T16:20:00,Trendy,Gold,"₹1,801 - ₹2,000",2000,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,dismiss,0
+cust_0087,sess_0087_1,2026-09-16T18:38:00,Trendy,Gold,"₹1,801 - ₹2,000",2000,frame-37,STRATA,Modern,Black,Square,Medium,1599,favourite,1
+cust_0088,sess_0088_1,2026-09-16T17:24:00,Casual,Transparent,"₹1,000 - ₹1,200",1200,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,explicit_dislike,0
+cust_0088,sess_0088_1,2026-10-04T10:23:00,Casual,Transparent,"₹1,000 - ₹1,200",1200,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0088,sess_0088_1,2026-09-24T18:43:00,Casual,Transparent,"₹1,000 - ₹1,200",1200,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,explicit_like,1
+cust_0088,sess_0088_1,2026-09-02T19:04:00,Casual,Transparent,"₹1,000 - ₹1,200",1200,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0088,sess_0088_1,2026-09-26T18:18:00,Casual,Transparent,"₹1,000 - ₹1,200",1200,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,favourite,1
+cust_0089,sess_0089_1,2026-09-10T18:20:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,explicit_dislike,0
+cust_0089,sess_0089_1,2026-09-20T16:46:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_dislike,0
+cust_0089,sess_0089_1,2026-09-06T16:07:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,add_to_cart,1
+cust_0089,sess_0089_1,2026-10-13T20:47:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,dismiss,0
+cust_0089,sess_0089_1,2026-10-15T10:10:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,add_to_cart,1
+cust_0089,sess_0089_1,2026-09-11T15:08:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-40,NORDIC,Modern,Black,Square,Large,1899,purchase,1
+cust_0090,sess_0090_1,2026-10-02T17:32:00,Trendy,Brown,"₹1,000 - ₹1,200",1200,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,explicit_dislike,0
+cust_0090,sess_0090_1,2026-09-24T12:16:00,Trendy,Brown,"₹1,000 - ₹1,200",1200,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,explicit_dislike,0
+cust_0090,sess_0090_1,2026-09-15T18:00:00,Trendy,Brown,"₹1,000 - ₹1,200",1200,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0090,sess_0090_1,2026-09-03T17:23:00,Trendy,Brown,"₹1,000 - ₹1,200",1200,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,explicit_dislike,0
+cust_0090,sess_0090_1,2026-10-06T20:26:00,Trendy,Brown,"₹1,000 - ₹1,200",1200,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,favourite,1
+cust_0091,sess_0091_1,2026-09-15T18:02:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_dislike,0
+cust_0091,sess_0091_1,2026-09-19T14:20:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,explicit_like,1
+cust_0091,sess_0091_1,2026-09-13T14:36:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,purchase,1
+cust_0091,sess_0091_1,2026-09-30T15:37:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-37,STRATA,Modern,Black,Square,Medium,1599,explicit_dislike,0
+cust_0091,sess_0091_1,2026-10-05T13:09:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_dislike,0
+cust_0091,sess_0091_1,2026-10-05T15:40:00,Modern,No Preference,"₹1,201 - ₹1,500",1500,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,add_to_cart,1
+cust_0092,sess_0092_1,2026-10-16T14:05:00,Classic,No Preference,"₹1,000 - ₹1,200",1200,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,add_to_cart,1
+cust_0092,sess_0092_1,2026-10-15T15:29:00,Classic,No Preference,"₹1,000 - ₹1,200",1200,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,explicit_like,1
+cust_0092,sess_0092_1,2026-10-03T12:40:00,Classic,No Preference,"₹1,000 - ₹1,200",1200,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,favourite,1
+cust_0092,sess_0092_1,2026-09-28T20:08:00,Classic,No Preference,"₹1,000 - ₹1,200",1200,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,favourite,1
+cust_0092,sess_0092_1,2026-09-26T15:20:00,Classic,No Preference,"₹1,000 - ₹1,200",1200,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,purchase,1
+cust_0092,sess_0092_1,2026-09-09T19:06:00,Classic,No Preference,"₹1,000 - ₹1,200",1200,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,add_to_cart,1
+cust_0093,sess_0093_1,2026-09-30T14:54:00,Modern,Brown,"₹1,201 - ₹1,500",1500,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,purchase,1
+cust_0093,sess_0093_1,2026-10-16T19:02:00,Modern,Brown,"₹1,201 - ₹1,500",1500,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,purchase,1
+cust_0093,sess_0093_1,2026-09-06T13:22:00,Modern,Brown,"₹1,201 - ₹1,500",1500,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_dislike,0
+cust_0093,sess_0093_1,2026-09-17T12:01:00,Modern,Brown,"₹1,201 - ₹1,500",1500,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,purchase,1
+cust_0093,sess_0093_1,2026-09-07T17:06:00,Modern,Brown,"₹1,201 - ₹1,500",1500,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_dislike,0
+cust_0093,sess_0093_1,2026-09-04T13:08:00,Modern,Brown,"₹1,201 - ₹1,500",1500,frame-23,MONOLITH,Classic,Black,Square,Large,1699,favourite,1
+cust_0094,sess_0094_1,2026-09-09T11:57:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_like,1
+cust_0094,sess_0094_1,2026-09-03T17:03:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_dislike,0
+cust_0094,sess_0094_1,2026-10-02T10:24:00,Modern,Burgundy,"₹1,501 - ₹1,800",1800,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,dismiss,0
+cust_0095,sess_0095_1,2026-10-12T14:31:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_dislike,0
+cust_0095,sess_0095_1,2026-09-06T14:24:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,favourite,1
+cust_0095,sess_0095_1,2026-10-11T18:50:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,add_to_cart,1
+cust_0095,sess_0095_1,2026-10-01T18:50:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,purchase,1
+cust_0096,sess_0096_1,2026-09-04T17:33:00,Professional,No Preference,Any Budget,2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,purchase,1
+cust_0096,sess_0096_1,2026-09-11T11:15:00,Professional,No Preference,Any Budget,2000,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,add_to_cart,1
+cust_0096,sess_0096_1,2026-09-15T19:54:00,Professional,No Preference,Any Budget,2000,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,favourite,1
+cust_0096,sess_0096_1,2026-09-12T13:37:00,Professional,No Preference,Any Budget,2000,frame-2,KENNETH,Modern,Teal,Square,Large,1499,add_to_cart,1
+cust_0096,sess_0096_1,2026-10-08T10:45:00,Professional,No Preference,Any Budget,2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,purchase,1
+cust_0097,sess_0097_1,2026-10-09T13:01:00,Trendy,Gold,Any Budget,2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,add_to_cart,1
+cust_0097,sess_0097_1,2026-09-09T15:45:00,Trendy,Gold,Any Budget,2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,add_to_cart,1
+cust_0097,sess_0097_1,2026-09-04T10:09:00,Trendy,Gold,Any Budget,2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0097,sess_0097_1,2026-10-04T15:04:00,Trendy,Gold,Any Budget,2000,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_dislike,0
+cust_0098,sess_0098_1,2026-10-11T17:41:00,Trendy,Burgundy,Any Budget,2000,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,explicit_like,1
+cust_0098,sess_0098_1,2026-09-15T20:37:00,Trendy,Burgundy,Any Budget,2000,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0098,sess_0098_1,2026-09-09T12:46:00,Trendy,Burgundy,Any Budget,2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,purchase,1
+cust_0099,sess_0099_1,2026-10-11T19:06:00,Classic,Burgundy,Any Budget,2000,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,explicit_dislike,0
+cust_0099,sess_0099_1,2026-09-16T15:20:00,Classic,Burgundy,Any Budget,2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,favourite,1
+cust_0099,sess_0099_1,2026-10-16T20:40:00,Classic,Burgundy,Any Budget,2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_dislike,0
+cust_0100,sess_0100_1,2026-09-25T17:46:00,Trendy,Teal,"₹1,000 - ₹1,200",1200,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,explicit_dislike,0
+cust_0100,sess_0100_1,2026-10-02T16:22:00,Trendy,Teal,"₹1,000 - ₹1,200",1200,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_like,1
+cust_0100,sess_0100_1,2026-10-07T20:48:00,Trendy,Teal,"₹1,000 - ₹1,200",1200,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,explicit_like,1
+cust_0100,sess_0100_1,2026-09-03T14:01:00,Trendy,Teal,"₹1,000 - ₹1,200",1200,frame-23,MONOLITH,Classic,Black,Square,Large,1699,favourite,1
+cust_0100,sess_0100_1,2026-09-22T12:56:00,Trendy,Teal,"₹1,000 - ₹1,200",1200,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_dislike,0
+cust_0101,sess_0101_1,2026-10-12T12:38:00,Professional,Gold,"₹1,000 - ₹1,200",1200,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,dismiss,0
+cust_0101,sess_0101_1,2026-09-22T13:12:00,Professional,Gold,"₹1,000 - ₹1,200",1200,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,favourite,1
+cust_0101,sess_0101_1,2026-10-13T14:19:00,Professional,Gold,"₹1,000 - ₹1,200",1200,frame-40,NORDIC,Modern,Black,Square,Large,1899,dismiss,0
+cust_0102,sess_0102_1,2026-09-13T11:01:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-37,STRATA,Modern,Black,Square,Medium,1599,explicit_like,1
+cust_0102,sess_0102_1,2026-10-01T11:19:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_dislike,0
+cust_0102,sess_0102_1,2026-09-06T20:34:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,dismiss,0
+cust_0102,sess_0102_1,2026-09-24T12:28:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,explicit_like,1
+cust_0102,sess_0102_1,2026-09-15T14:36:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-4,MICHEL,Classic,Copper,Round,Small,1099,dismiss,0
+cust_0102,sess_0102_1,2026-09-06T20:22:00,Modern,Brown,"₹1,000 - ₹1,200",1200,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_dislike,0
+cust_0103,sess_0103_1,2026-10-07T13:30:00,Casual,Burgundy,Any Budget,2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0103,sess_0103_1,2026-10-03T19:57:00,Casual,Burgundy,Any Budget,2000,frame-4,MICHEL,Classic,Copper,Round,Small,1099,favourite,1
+cust_0103,sess_0103_1,2026-09-08T17:11:00,Casual,Burgundy,Any Budget,2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,add_to_cart,1
+cust_0103,sess_0103_1,2026-09-13T12:02:00,Casual,Burgundy,Any Budget,2000,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,add_to_cart,1
+cust_0104,sess_0104_1,2026-09-06T16:35:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,explicit_dislike,0
+cust_0104,sess_0104_1,2026-10-04T17:58:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,purchase,1
+cust_0104,sess_0104_1,2026-09-08T16:09:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,dismiss,0
+cust_0104,sess_0104_1,2026-09-07T19:49:00,Professional,Brown,"₹1,801 - ₹2,000",2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,favourite,1
+cust_0105,sess_0105_1,2026-09-26T12:39:00,Classic,Transparent,Any Budget,2000,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,purchase,1
+cust_0105,sess_0105_1,2026-09-26T15:44:00,Classic,Transparent,Any Budget,2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_dislike,0
+cust_0105,sess_0105_1,2026-09-24T10:21:00,Classic,Transparent,Any Budget,2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,dismiss,0
+cust_0105,sess_0105_1,2026-10-02T20:06:00,Classic,Transparent,Any Budget,2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,purchase,1
+cust_0105,sess_0105_1,2026-09-29T15:17:00,Classic,Transparent,Any Budget,2000,frame-37,STRATA,Modern,Black,Square,Medium,1599,purchase,1
+cust_0106,sess_0106_1,2026-10-16T18:25:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,purchase,1
+cust_0106,sess_0106_1,2026-09-12T13:56:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,explicit_dislike,0
+cust_0106,sess_0106_1,2026-09-03T17:03:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,explicit_dislike,0
+cust_0106,sess_0106_1,2026-09-24T17:32:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,dismiss,0
+cust_0106,sess_0106_1,2026-09-16T15:31:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_dislike,0
+cust_0106,sess_0106_1,2026-10-08T18:22:00,Professional,Brown,"₹1,201 - ₹1,500",1500,frame-4,MICHEL,Classic,Copper,Round,Small,1099,explicit_like,1
+cust_0107,sess_0107_1,2026-09-15T20:14:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,explicit_dislike,0
+cust_0107,sess_0107_1,2026-10-03T10:55:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-2,KENNETH,Modern,Teal,Square,Large,1499,explicit_like,1
+cust_0107,sess_0107_1,2026-10-01T12:41:00,Trendy,Gold,"₹1,501 - ₹1,800",1800,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,explicit_dislike,0
+cust_0108,sess_0108_1,2026-09-30T14:43:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,explicit_dislike,0
+cust_0108,sess_0108_1,2026-09-01T18:42:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,explicit_dislike,0
+cust_0108,sess_0108_1,2026-09-20T20:06:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,dismiss,0
+cust_0108,sess_0108_1,2026-10-11T15:55:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,purchase,1
+cust_0108,sess_0108_1,2026-09-13T12:33:00,Modern,Black,"₹1,201 - ₹1,500",1500,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,dismiss,0
+cust_0109,sess_0109_1,2026-10-08T19:52:00,Modern,Black,Any Budget,2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,favourite,1
+cust_0109,sess_0109_1,2026-10-14T18:40:00,Modern,Black,Any Budget,2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_dislike,0
+cust_0109,sess_0109_1,2026-10-03T14:54:00,Modern,Black,Any Budget,2000,frame-2,KENNETH,Modern,Teal,Square,Large,1499,dismiss,0
+cust_0109,sess_0109_1,2026-09-19T11:30:00,Modern,Black,Any Budget,2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,explicit_dislike,0
+cust_0109,sess_0109_1,2026-10-14T15:41:00,Modern,Black,Any Budget,2000,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,add_to_cart,1
+cust_0109,sess_0109_1,2026-09-27T15:23:00,Modern,Black,Any Budget,2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,purchase,1
+cust_0110,sess_0110_1,2026-09-13T18:07:00,Trendy,Transparent,"₹1,801 - ₹2,000",2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,dismiss,0
+cust_0110,sess_0110_1,2026-09-27T10:55:00,Trendy,Transparent,"₹1,801 - ₹2,000",2000,frame-4,MICHEL,Classic,Copper,Round,Small,1099,purchase,1
+cust_0110,sess_0110_1,2026-09-22T16:36:00,Trendy,Transparent,"₹1,801 - ₹2,000",2000,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,add_to_cart,1
+cust_0111,sess_0111_1,2026-09-18T13:48:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,explicit_like,1
+cust_0111,sess_0111_1,2026-10-02T11:08:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,explicit_dislike,0
+cust_0111,sess_0111_1,2026-09-28T17:24:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,explicit_like,1
+cust_0111,sess_0111_1,2026-09-01T15:48:00,Professional,Gold,"₹1,501 - ₹1,800",1800,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,dismiss,0
+cust_0112,sess_0112_1,2026-09-11T11:52:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,purchase,1
+cust_0112,sess_0112_1,2026-10-04T19:33:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,dismiss,0
+cust_0112,sess_0112_1,2026-09-22T17:22:00,Casual,Silver,"₹1,000 - ₹1,200",1200,frame-23,MONOLITH,Classic,Black,Square,Large,1699,explicit_dislike,0
+cust_0113,sess_0113_1,2026-09-08T15:45:00,Modern,Gold,"₹1,801 - ₹2,000",2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,add_to_cart,1
+cust_0113,sess_0113_1,2026-10-05T19:03:00,Modern,Gold,"₹1,801 - ₹2,000",2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,purchase,1
+cust_0113,sess_0113_1,2026-10-12T10:03:00,Modern,Gold,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,favourite,1
+cust_0114,sess_0114_1,2026-09-27T20:06:00,Classic,Burgundy,"₹1,801 - ₹2,000",2000,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,dismiss,0
+cust_0114,sess_0114_1,2026-09-27T11:32:00,Classic,Burgundy,"₹1,801 - ₹2,000",2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,add_to_cart,1
+cust_0114,sess_0114_1,2026-09-07T17:12:00,Classic,Burgundy,"₹1,801 - ₹2,000",2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,favourite,1
+cust_0114,sess_0114_1,2026-09-23T16:18:00,Classic,Burgundy,"₹1,801 - ₹2,000",2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0
+cust_0114,sess_0114_1,2026-10-15T17:21:00,Classic,Burgundy,"₹1,801 - ₹2,000",2000,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,add_to_cart,1
+cust_0114,sess_0114_1,2026-09-08T19:42:00,Classic,Burgundy,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,favourite,1
+cust_0115,sess_0115_1,2026-09-30T10:06:00,Professional,Gold,"₹1,000 - ₹1,200",1200,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,dismiss,0
+cust_0115,sess_0115_1,2026-09-24T20:20:00,Professional,Gold,"₹1,000 - ₹1,200",1200,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,dismiss,0
+cust_0115,sess_0115_1,2026-09-01T12:42:00,Professional,Gold,"₹1,000 - ₹1,200",1200,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,favourite,1
+cust_0116,sess_0116_1,2026-09-18T16:44:00,Modern,No Preference,"₹1,501 - ₹1,800",1800,frame-40,NORDIC,Modern,Black,Square,Large,1899,explicit_like,1
+cust_0116,sess_0116_1,2026-09-08T12:44:00,Modern,No Preference,"₹1,501 - ₹1,800",1800,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,add_to_cart,1
+cust_0116,sess_0116_1,2026-09-07T16:58:00,Modern,No Preference,"₹1,501 - ₹1,800",1800,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,explicit_dislike,0
+cust_0116,sess_0116_1,2026-09-12T19:24:00,Modern,No Preference,"₹1,501 - ₹1,800",1800,frame-24,PACIFICA,Casual,Black,Square,Large,1099,dismiss,0
+cust_0116,sess_0116_1,2026-10-01T17:07:00,Modern,No Preference,"₹1,501 - ₹1,800",1800,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,add_to_cart,1
+cust_0116,sess_0116_1,2026-09-17T20:20:00,Modern,No Preference,"₹1,501 - ₹1,800",1800,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,favourite,1
+cust_0117,sess_0117_1,2026-09-23T20:43:00,Classic,Rose Gold,Any Budget,2000,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,dismiss,0
+cust_0117,sess_0117_1,2026-09-01T20:59:00,Classic,Rose Gold,Any Budget,2000,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,favourite,1
+cust_0117,sess_0117_1,2026-09-11T11:48:00,Classic,Rose Gold,Any Budget,2000,frame-40,NORDIC,Modern,Black,Square,Large,1899,dismiss,0
+cust_0117,sess_0117_1,2026-09-04T18:14:00,Classic,Rose Gold,Any Budget,2000,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,purchase,1
+cust_0118,sess_0118_1,2026-09-21T11:31:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,dismiss,0
+cust_0118,sess_0118_1,2026-09-27T10:35:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,explicit_like,1
+cust_0118,sess_0118_1,2026-10-03T18:13:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,dismiss,0
+cust_0118,sess_0118_1,2026-09-24T10:52:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-37,STRATA,Modern,Black,Square,Medium,1599,purchase,1
+cust_0119,sess_0119_1,2026-10-06T18:23:00,Modern,Teal,"₹1,501 - ₹1,800",1800,frame-24,PACIFICA,Casual,Black,Square,Large,1099,dismiss,0
+cust_0119,sess_0119_1,2026-10-02T12:52:00,Modern,Teal,"₹1,501 - ₹1,800",1800,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,add_to_cart,1
+cust_0119,sess_0119_1,2026-09-17T19:12:00,Modern,Teal,"₹1,501 - ₹1,800",1800,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,explicit_dislike,0
+cust_0119,sess_0119_1,2026-09-14T17:52:00,Modern,Teal,"₹1,501 - ₹1,800",1800,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,dismiss,0
+cust_0119,sess_0119_1,2026-09-27T10:59:00,Modern,Teal,"₹1,501 - ₹1,800",1800,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,explicit_dislike,0
+cust_0119,sess_0119_1,2026-09-29T17:42:00,Modern,Teal,"₹1,501 - ₹1,800",1800,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_dislike,0
+cust_0120,sess_0120_1,2026-10-15T19:11:00,Casual,Rose Gold,"₹1,201 - ₹1,500",1500,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_dislike,0
+cust_0120,sess_0120_1,2026-10-13T19:38:00,Casual,Rose Gold,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_like,1
+cust_0120,sess_0120_1,2026-09-27T19:58:00,Casual,Rose Gold,"₹1,201 - ₹1,500",1500,frame-4,MICHEL,Classic,Copper,Round,Small,1099,explicit_like,1
+cust_0120,sess_0120_1,2026-09-22T14:28:00,Casual,Rose Gold,"₹1,201 - ₹1,500",1500,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0120,sess_0120_1,2026-10-15T18:55:00,Casual,Rose Gold,"₹1,201 - ₹1,500",1500,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,purchase,1
+cust_0120,sess_0120_1,2026-09-13T13:39:00,Casual,Rose Gold,"₹1,201 - ₹1,500",1500,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0
+cust_0121,sess_0121_1,2026-10-14T18:18:00,Trendy,No Preference,"₹1,201 - ₹1,500",1500,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0121,sess_0121_1,2026-10-04T11:01:00,Trendy,No Preference,"₹1,201 - ₹1,500",1500,frame-35,MILANO,Classic,Black,Square,Medium,1899,favourite,1
+cust_0121,sess_0121_1,2026-09-13T14:48:00,Trendy,No Preference,"₹1,201 - ₹1,500",1500,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,favourite,1
+cust_0121,sess_0121_1,2026-09-10T10:44:00,Trendy,No Preference,"₹1,201 - ₹1,500",1500,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,dismiss,0
+cust_0122,sess_0122_1,2026-10-12T18:24:00,Trendy,Silver,Any Budget,2000,frame-23,MONOLITH,Classic,Black,Square,Large,1699,explicit_dislike,0
+cust_0122,sess_0122_1,2026-10-15T20:03:00,Trendy,Silver,Any Budget,2000,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,dismiss,0
+cust_0122,sess_0122_1,2026-10-06T10:00:00,Trendy,Silver,Any Budget,2000,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,purchase,1
+cust_0123,sess_0123_1,2026-09-12T12:47:00,Trendy,Silver,Any Budget,2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,favourite,1
+cust_0123,sess_0123_1,2026-09-18T18:16:00,Trendy,Silver,Any Budget,2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_like,1
+cust_0123,sess_0123_1,2026-09-01T15:29:00,Trendy,Silver,Any Budget,2000,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,purchase,1
+cust_0123,sess_0123_1,2026-09-21T19:03:00,Trendy,Silver,Any Budget,2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,add_to_cart,1
+cust_0123,sess_0123_1,2026-10-02T19:35:00,Trendy,Silver,Any Budget,2000,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,purchase,1
+cust_0123,sess_0123_1,2026-10-04T13:11:00,Trendy,Silver,Any Budget,2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,dismiss,0
+cust_0124,sess_0124_1,2026-09-22T15:18:00,Casual,Brown,Any Budget,2000,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,dismiss,0
+cust_0124,sess_0124_1,2026-10-06T20:00:00,Casual,Brown,Any Budget,2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,dismiss,0
+cust_0124,sess_0124_1,2026-10-12T19:58:00,Casual,Brown,Any Budget,2000,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,add_to_cart,1
+cust_0124,sess_0124_1,2026-09-25T11:24:00,Casual,Brown,Any Budget,2000,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,dismiss,0
+cust_0125,sess_0125_1,2026-09-19T20:12:00,Trendy,Rose Gold,"₹1,501 - ₹1,800",1800,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,favourite,1
+cust_0125,sess_0125_1,2026-09-11T18:34:00,Trendy,Rose Gold,"₹1,501 - ₹1,800",1800,frame-24,PACIFICA,Casual,Black,Square,Large,1099,favourite,1
+cust_0125,sess_0125_1,2026-10-14T16:53:00,Trendy,Rose Gold,"₹1,501 - ₹1,800",1800,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,add_to_cart,1
+cust_0126,sess_0126_1,2026-10-06T11:36:00,Classic,Silver,Any Budget,2000,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,purchase,1
+cust_0126,sess_0126_1,2026-09-25T17:40:00,Classic,Silver,Any Budget,2000,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,dismiss,0
+cust_0126,sess_0126_1,2026-10-14T11:34:00,Classic,Silver,Any Budget,2000,frame-2,KENNETH,Modern,Teal,Square,Large,1499,explicit_like,1
+cust_0126,sess_0126_1,2026-10-08T10:44:00,Classic,Silver,Any Budget,2000,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,explicit_dislike,0
+cust_0126,sess_0126_1,2026-09-19T20:19:00,Classic,Silver,Any Budget,2000,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,favourite,1
+cust_0126,sess_0126_1,2026-09-25T16:52:00,Classic,Silver,Any Budget,2000,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,explicit_like,1
+cust_0127,sess_0127_1,2026-09-01T18:55:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,purchase,1
+cust_0127,sess_0127_1,2026-10-07T19:25:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,favourite,1
+cust_0127,sess_0127_1,2026-09-14T15:13:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-35,MILANO,Classic,Black,Square,Medium,1899,dismiss,0
+cust_0127,sess_0127_1,2026-09-11T12:14:00,Classic,Teal,"₹1,201 - ₹1,500",1500,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,explicit_dislike,0
+cust_0128,sess_0128_1,2026-10-12T18:04:00,Casual,Transparent,"₹1,201 - ₹1,500",1500,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,dismiss,0
+cust_0128,sess_0128_1,2026-09-13T19:31:00,Casual,Transparent,"₹1,201 - ₹1,500",1500,frame-37,STRATA,Modern,Black,Square,Medium,1599,favourite,1
+cust_0128,sess_0128_1,2026-09-07T14:39:00,Casual,Transparent,"₹1,201 - ₹1,500",1500,frame-4,MICHEL,Classic,Copper,Round,Small,1099,add_to_cart,1
+cust_0129,sess_0129_1,2026-09-16T13:45:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,purchase,1
+cust_0129,sess_0129_1,2026-09-09T20:46:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-22,MAYFAIR,Professional,Gunmetal,Square,Medium,1599,purchase,1
+cust_0129,sess_0129_1,2026-09-23T14:31:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-20,PRISM,Modern,Clear,Geometric,Small,1899,dismiss,0
+cust_0129,sess_0129_1,2026-09-18T12:57:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,favourite,1
+cust_0129,sess_0129_1,2026-09-05T10:54:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-24,PACIFICA,Casual,Black,Square,Large,1099,favourite,1
+cust_0129,sess_0129_1,2026-10-08T13:58:00,Classic,Silver,"₹1,501 - ₹1,800",1800,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,explicit_like,1
+cust_0130,sess_0130_1,2026-09-24T18:00:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,explicit_like,1
+cust_0130,sess_0130_1,2026-10-03T12:28:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_dislike,0
+cust_0130,sess_0130_1,2026-10-01T15:02:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,explicit_dislike,0
+cust_0130,sess_0130_1,2026-09-17T15:14:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,favourite,1
+cust_0130,sess_0130_1,2026-09-25T17:58:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,purchase,1
+cust_0130,sess_0130_1,2026-09-07T18:40:00,Classic,Rose Gold,"₹1,501 - ₹1,800",1800,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,purchase,1
+cust_0131,sess_0131_1,2026-10-04T16:22:00,Trendy,Transparent,Any Budget,2000,frame-25,ZEPHYR,Trendy,Silver,Geometric,Medium,1299,add_to_cart,1
+cust_0131,sess_0131_1,2026-10-09T10:32:00,Trendy,Transparent,Any Budget,2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,explicit_like,1
+cust_0131,sess_0131_1,2026-09-05T18:41:00,Trendy,Transparent,Any Budget,2000,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,add_to_cart,1
+cust_0131,sess_0131_1,2026-09-24T19:45:00,Trendy,Transparent,Any Budget,2000,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,add_to_cart,1
+cust_0132,sess_0132_1,2026-09-03T12:36:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,add_to_cart,1
+cust_0132,sess_0132_1,2026-10-07T12:03:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,favourite,1
+cust_0132,sess_0132_1,2026-10-09T19:40:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,dismiss,0
+cust_0132,sess_0132_1,2026-09-06T13:28:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,dismiss,0
+cust_0132,sess_0132_1,2026-09-11T13:53:00,Classic,Silver,"₹1,801 - ₹2,000",2000,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,dismiss,0
+cust_0133,sess_0133_1,2026-10-09T19:04:00,Professional,Gold,Any Budget,2000,frame-40,NORDIC,Modern,Black,Square,Large,1899,explicit_like,1
+cust_0133,sess_0133_1,2026-09-02T13:33:00,Professional,Gold,Any Budget,2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,favourite,1
+cust_0133,sess_0133_1,2026-09-10T19:06:00,Professional,Gold,Any Budget,2000,frame-17,NEXUS,Modern,Blue,Rectangle,Large,1399,explicit_like,1
+cust_0133,sess_0133_1,2026-10-05T18:48:00,Professional,Gold,Any Budget,2000,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_dislike,0
+cust_0134,sess_0134_1,2026-10-15T18:27:00,Classic,Brown,"₹1,801 - ₹2,000",2000,frame-39,SIREN,Trendy,Tortoise,Cat-Eye,Medium,1699,favourite,1
+cust_0134,sess_0134_1,2026-09-23T19:51:00,Classic,Brown,"₹1,801 - ₹2,000",2000,frame-35,MILANO,Classic,Black,Square,Medium,1899,dismiss,0
+cust_0134,sess_0134_1,2026-09-28T12:16:00,Classic,Brown,"₹1,801 - ₹2,000",2000,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,explicit_dislike,0
+cust_0134,sess_0134_1,2026-09-19T19:56:00,Classic,Brown,"₹1,801 - ₹2,000",2000,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,favourite,1
+cust_0135,sess_0135_1,2026-10-15T15:26:00,Casual,Burgundy,"₹1,501 - ₹1,800",1800,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,add_to_cart,1
+cust_0135,sess_0135_1,2026-09-17T18:27:00,Casual,Burgundy,"₹1,501 - ₹1,800",1800,frame-37,STRATA,Modern,Black,Square,Medium,1599,purchase,1
+cust_0135,sess_0135_1,2026-09-14T16:35:00,Casual,Burgundy,"₹1,501 - ₹1,800",1800,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_like,1
+cust_0135,sess_0135_1,2026-10-06T18:30:00,Casual,Burgundy,"₹1,501 - ₹1,800",1800,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,purchase,1
+cust_0136,sess_0136_1,2026-09-14T18:25:00,Trendy,Transparent,Any Budget,2000,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,explicit_dislike,0
+cust_0136,sess_0136_1,2026-09-11T16:40:00,Trendy,Transparent,Any Budget,2000,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,explicit_dislike,0
+cust_0136,sess_0136_1,2026-10-01T19:27:00,Trendy,Transparent,Any Budget,2000,frame-8,SIENA,Modern,Silver,Geometric,Medium,1199,add_to_cart,1
+cust_0136,sess_0136_1,2026-09-06T19:02:00,Trendy,Transparent,Any Budget,2000,frame-15,MANHATTAN,Professional,Gunmetal,Rectangle,Medium,1699,purchase,1
+cust_0136,sess_0136_1,2026-10-10T20:33:00,Trendy,Transparent,Any Budget,2000,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,dismiss,0
+cust_0137,sess_0137_1,2026-10-10T12:43:00,Trendy,Black,"₹1,201 - ₹1,500",1500,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,explicit_dislike,0
+cust_0137,sess_0137_1,2026-09-11T11:17:00,Trendy,Black,"₹1,201 - ₹1,500",1500,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,favourite,1
+cust_0137,sess_0137_1,2026-09-26T19:12:00,Trendy,Black,"₹1,201 - ₹1,500",1500,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,explicit_like,1
+cust_0137,sess_0137_1,2026-09-06T18:18:00,Trendy,Black,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0137,sess_0137_1,2026-09-23T14:14:00,Trendy,Black,"₹1,201 - ₹1,500",1500,frame-19,ESTATE,Classic,Gold,Oval,Small,1199,dismiss,0
+cust_0137,sess_0137_1,2026-10-07T10:16:00,Trendy,Black,"₹1,201 - ₹1,500",1500,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_like,1
+cust_0138,sess_0138_1,2026-10-05T19:16:00,Modern,Burgundy,Any Budget,2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,dismiss,0
+cust_0138,sess_0138_1,2026-09-16T15:49:00,Modern,Burgundy,Any Budget,2000,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,dismiss,0
+cust_0138,sess_0138_1,2026-10-01T11:16:00,Modern,Burgundy,Any Budget,2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_dislike,0
+cust_0139,sess_0139_1,2026-09-16T14:05:00,Classic,Burgundy,"₹1,201 - ₹1,500",1500,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,dismiss,0
+cust_0139,sess_0139_1,2026-09-05T18:59:00,Classic,Burgundy,"₹1,201 - ₹1,500",1500,frame-27,HERITAGE,Classic,Gold,Round,Medium,1799,dismiss,0
+cust_0139,sess_0139_1,2026-10-07T14:11:00,Classic,Burgundy,"₹1,201 - ₹1,500",1500,frame-23,MONOLITH,Classic,Black,Square,Large,1699,add_to_cart,1
+cust_0139,sess_0139_1,2026-10-02T13:15:00,Classic,Burgundy,"₹1,201 - ₹1,500",1500,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0140,sess_0140_1,2026-10-14T20:31:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,favourite,1
+cust_0140,sess_0140_1,2026-10-01T15:39:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-16,VERTEX,Modern,Black,Rectangle,Large,1999,explicit_dislike,0
+cust_0140,sess_0140_1,2026-10-02T12:48:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-40,NORDIC,Modern,Black,Square,Large,1899,dismiss,0
+cust_0140,sess_0140_1,2026-10-07T12:03:00,Modern,Transparent,"₹1,201 - ₹1,500",1500,frame-23,MONOLITH,Classic,Black,Square,Large,1699,add_to_cart,1
+cust_0141,sess_0141_1,2026-09-08T18:29:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,dismiss,0
+cust_0141,sess_0141_1,2026-09-25T19:06:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-23,MONOLITH,Classic,Black,Square,Large,1699,add_to_cart,1
+cust_0141,sess_0141_1,2026-09-12T18:16:00,Casual,Burgundy,"₹1,801 - ₹2,000",2000,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,dismiss,0
+cust_0142,sess_0142_1,2026-09-26T14:28:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,dismiss,0
+cust_0142,sess_0142_1,2026-09-07T14:51:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-12,HAVEN,Casual,Tortoise,Square,Medium,1599,add_to_cart,1
+cust_0142,sess_0142_1,2026-09-13T12:51:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,explicit_like,1
+cust_0142,sess_0142_1,2026-09-12T16:31:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-28,TRIBUNE,Professional,Silver,Browline,Large,1899,favourite,1
+cust_0142,sess_0142_1,2026-10-02T14:16:00,Modern,Transparent,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,dismiss,0
+cust_0143,sess_0143_1,2026-09-29T15:16:00,Casual,Black,"₹1,801 - ₹2,000",2000,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,favourite,1
+cust_0143,sess_0143_1,2026-09-23T10:26:00,Casual,Black,"₹1,801 - ₹2,000",2000,frame-4,MICHEL,Classic,Copper,Round,Small,1099,dismiss,0
+cust_0143,sess_0143_1,2026-10-07T19:41:00,Casual,Black,"₹1,801 - ₹2,000",2000,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,explicit_dislike,0
+cust_0144,sess_0144_1,2026-09-11T20:51:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,add_to_cart,1
+cust_0144,sess_0144_1,2026-09-05T11:10:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-33,CAMBRIDGE,Classic,Tortoise,Round,Medium,1599,explicit_like,1
+cust_0144,sess_0144_1,2026-10-16T14:38:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,purchase,1
+cust_0144,sess_0144_1,2026-09-24T19:33:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,explicit_like,1
+cust_0144,sess_0144_1,2026-09-02T12:46:00,Casual,Gold,"₹1,501 - ₹1,800",1800,frame-6,AURA,Professional,Gunmetal,Geometric,Medium,1599,add_to_cart,1
+cust_0145,sess_0145_1,2026-09-02T16:33:00,Modern,Transparent,"₹1,000 - ₹1,200",1200,frame-11,SOLARIS,Trendy,Amber,Rectangle,Medium,1799,explicit_dislike,0
+cust_0145,sess_0145_1,2026-10-10T12:05:00,Modern,Transparent,"₹1,000 - ₹1,200",1200,frame-26,CAPITOL,Professional,Black,Rectangle,Medium,1399,purchase,1
+cust_0145,sess_0145_1,2026-09-15T13:47:00,Modern,Transparent,"₹1,000 - ₹1,200",1200,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,dismiss,0
+cust_0145,sess_0145_1,2026-10-04T12:01:00,Modern,Transparent,"₹1,000 - ₹1,200",1200,frame-5,EMBER,Professional,Black,Geometric,Medium,1399,explicit_dislike,0
+cust_0146,sess_0146_1,2026-10-08T19:29:00,Classic,No Preference,"₹1,501 - ₹1,800",1800,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,add_to_cart,1
+cust_0146,sess_0146_1,2026-10-04T20:40:00,Classic,No Preference,"₹1,501 - ₹1,800",1800,frame-35,MILANO,Classic,Black,Square,Medium,1899,explicit_like,1
+cust_0146,sess_0146_1,2026-10-05T13:51:00,Classic,No Preference,"₹1,501 - ₹1,800",1800,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,dismiss,0
+cust_0146,sess_0146_1,2026-09-17T12:19:00,Classic,No Preference,"₹1,501 - ₹1,800",1800,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0146,sess_0146_1,2026-09-23T14:30:00,Classic,No Preference,"₹1,501 - ₹1,800",1800,frame-29,DRIFTWOOD,Casual,Champagne,Round,Small,1699,add_to_cart,1
+cust_0146,sess_0146_1,2026-10-01T14:00:00,Classic,No Preference,"₹1,501 - ₹1,800",1800,frame-9,VERONA,Trendy,Rose Gold,Oval,Small,1499,dismiss,0
+cust_0147,sess_0147_1,2026-09-16T12:45:00,Professional,Transparent,Any Budget,2000,frame-1,JEZZIE,Trendy,Burgundy,Round,Medium,1299,dismiss,0
+cust_0147,sess_0147_1,2026-09-15T14:05:00,Professional,Transparent,Any Budget,2000,frame-36,VALENCIA,Trendy,Champagne,Round,Medium,1399,explicit_like,1
+cust_0147,sess_0147_1,2026-09-19T20:47:00,Professional,Transparent,Any Budget,2000,frame-24,PACIFICA,Casual,Black,Square,Large,1099,purchase,1
+cust_0147,sess_0147_1,2026-09-05T12:08:00,Professional,Transparent,Any Budget,2000,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,add_to_cart,1
+cust_0148,sess_0148_1,2026-09-07T14:17:00,Trendy,Brown,"₹1,801 - ₹2,000",2000,frame-18,CELESTE,Trendy,Champagne,Cat-Eye,Small,1799,add_to_cart,1
+cust_0148,sess_0148_1,2026-09-15T11:09:00,Trendy,Brown,"₹1,801 - ₹2,000",2000,frame-32,NOVA,Trendy,Teal,Geometric,Medium,1499,favourite,1
+cust_0148,sess_0148_1,2026-09-20T17:23:00,Trendy,Brown,"₹1,801 - ₹2,000",2000,frame-13,LUMEN,Modern,Clear,Square,Medium,1299,explicit_like,1
+cust_0148,sess_0148_1,2026-09-06T12:03:00,Trendy,Brown,"₹1,801 - ₹2,000",2000,frame-21,GENEVA,Professional,Blue,Rectangle,Medium,1499,dismiss,0
+cust_0148,sess_0148_1,2026-09-12T13:57:00,Trendy,Brown,"₹1,801 - ₹2,000",2000,frame-2,KENNETH,Modern,Teal,Square,Large,1499,explicit_like,1
+cust_0148,sess_0148_1,2026-09-08T13:24:00,Trendy,Brown,"₹1,801 - ₹2,000",2000,frame-10,OXFORD,Classic,Brown,Browline,Medium,1699,explicit_dislike,0
+cust_0149,sess_0149_1,2026-09-21T12:40:00,Professional,Silver,"₹1,000 - ₹1,200",1200,frame-30,MARINER,Casual,Gunmetal,Rectangle,Medium,1099,dismiss,0
+cust_0149,sess_0149_1,2026-09-17T17:40:00,Professional,Silver,"₹1,000 - ₹1,200",1200,frame-7,EMORY,Casual,Black,Rectangle,Medium,1299,explicit_dislike,0
+cust_0149,sess_0149_1,2026-10-13T13:07:00,Professional,Silver,"₹1,000 - ₹1,200",1200,frame-34,BREEZE,Casual,Gold,Oval,Small,1799,explicit_dislike,0
+cust_0149,sess_0149_1,2026-09-11T14:37:00,Professional,Silver,"₹1,000 - ₹1,200",1200,frame-14,KENSINGTON,Professional,Black,Rectangle,Medium,1499,explicit_dislike,0
+cust_0150,sess_0150_1,2026-09-16T12:31:00,Classic,Burgundy,"₹1,201 - ₹1,500",1500,frame-3,SYNAPSE,Classic,Rose Gold,Round,Small,1799,favourite,1
+cust_0150,sess_0150_1,2026-09-04T15:41:00,Classic,Burgundy,"₹1,201 - ₹1,500",1500,frame-38,KINETIC,Modern,Silver,Rectangle,Medium,1999,explicit_dislike,0
+cust_0150,sess_0150_1,2026-09-09T17:14:00,Classic,Burgundy,"₹1,201 - ₹1,500",1500,frame-31,COASTLINE,Casual,Brown,Square,Medium,1199,explicit_dislike,0

@@ -1,0 +1,154 @@
+{
+  "version": "1.0.0",
+  "algorithm": "LogisticRegression",
+  "trained_at": "2026-10-21T18:59:57.186832",
+  "random_seed": 42,
+  "feature_names": [
+    "style_exact_match",
+    "style_affinity_score",
+    "color_match",
+    "budget_within",
+    "price_to_budget_ratio",
+    "price_normalized",
+    "pref_is_Classic",
+    "pref_is_Modern",
+    "pref_is_Trendy",
+    "pref_is_Professional",
+    "pref_is_Casual",
+    "style_match_x_budget",
+    "color_match_x_budget",
+    "full_preference_match"
+  ],
+  "coefficients": [
+    -0.11302958539069224,
+    1.1320737559160796,
+    0.801794142095237,
+    0.9753629067435133,
+    0.3778166892100311,
+    0.20525188283391382,
+    0.009826997907106349,
+    -0.13990480096601463,
+    -0.1292917149167634,
+    -0.08437418880414636,
+    0.305574817779747,
+    0.22805935009097666,
+    -0.07102659716251941,
+    0.7176639192040111
+  ],
+  "intercept": -1.9258565106209329,
+  "metrics": {
+    "train_samples": 531,
+    "test_samples": 148,
+    "train_customers": 120,
+    "test_customers": 30,
+    "roc_auc": 0.6776,
+    "accuracy": 0.6351,
+    "precision": 0.686,
+    "recall": 0.686,
+    "f1": 0.686,
+    "brier_score": 0.2223,
+    "confusion_matrix": [
+      [
+        35,
+        27
+      ],
+      [
+        27,
+        59
+      ]
+    ]
+  },
+  "feature_meta": {
+    "color_affinity": {
+      "Black": [
+        "Black",
+        "Gunmetal"
+      ],
+      "Brown": [
+        "Brown",
+        "Tortoise",
+        "Amber"
+      ],
+      "Gold": [
+        "Gold",
+        "Rose Gold",
+        "Copper",
+        "Champagne"
+      ],
+      "Silver": [
+        "Silver",
+        "Gunmetal"
+      ],
+      "Transparent": [
+        "Clear",
+        "Champagne",
+        "Transparent"
+      ],
+      "Burgundy": [
+        "Burgundy"
+      ],
+      "Teal": [
+        "Teal",
+        "Blue"
+      ],
+      "Rose Gold": [
+        "Rose Gold",
+        "Gold"
+      ],
+      "No Preference": []
+    },
+    "style_affinity": {
+      "Classic": {
+        "Classic": 1.0,
+        "Professional": 0.7,
+        "Casual": 0.5,
+        "Modern": 0.35,
+        "Trendy": 0.2
+      },
+      "Modern": {
+        "Modern": 1.0,
+        "Professional": 0.7,
+        "Trendy": 0.65,
+        "Casual": 0.5,
+        "Classic": 0.3
+      },
+      "Trendy": {
+        "Trendy": 1.0,
+        "Modern": 0.75,
+        "Casual": 0.6,
+        "Classic": 0.3,
+        "Professional": 0.25
+      },
+      "Professional": {
+        "Professional": 1.0,
+        "Classic": 0.75,
+        "Modern": 0.65,
+        "Casual": 0.4,
+        "Trendy": 0.25
+      },
+      "Casual": {
+        "Casual": 1.0,
+        "Modern": 0.7,
+        "Trendy": 0.65,
+        "Classic": 0.5,
+        "Professional": 0.35
+      }
+    },
+    "styles_list": [
+      "Classic",
+      "Modern",
+      "Trendy",
+      "Professional",
+      "Casual"
+    ],
+    "budget_ceiling_map": {
+      "\u20b91,000 - \u20b91,200": 1200,
+      "\u20b91,201 - \u20b91,500": 1500,
+      "\u20b91,501 - \u20b91,800": 1800,
+      "\u20b91,801 - \u20b92,000": 2000,
+      "Any Budget": 2000
+    },
+    "price_min": 1000,
+    "price_max": 2000
+  }
+}

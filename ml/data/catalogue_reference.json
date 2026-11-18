@@ -1,0 +1,362 @@
+[
+  {
+    "id": "frame-1",
+    "name": "JEZZIE",
+    "style": "Trendy",
+    "shape": "Round",
+    "color": "Burgundy",
+    "size": "Medium",
+    "price": 1299
+  },
+  {
+    "id": "frame-2",
+    "name": "KENNETH",
+    "style": "Modern",
+    "shape": "Square",
+    "color": "Teal",
+    "size": "Large",
+    "price": 1499
+  },
+  {
+    "id": "frame-3",
+    "name": "SYNAPSE",
+    "style": "Classic",
+    "shape": "Round",
+    "color": "Rose Gold",
+    "size": "Small",
+    "price": 1799
+  },
+  {
+    "id": "frame-4",
+    "name": "MICHEL",
+    "style": "Classic",
+    "shape": "Round",
+    "color": "Copper",
+    "size": "Small",
+    "price": 1099
+  },
+  {
+    "id": "frame-5",
+    "name": "EMBER",
+    "style": "Professional",
+    "shape": "Geometric",
+    "color": "Black",
+    "size": "Medium",
+    "price": 1399
+  },
+  {
+    "id": "frame-6",
+    "name": "AURA",
+    "style": "Professional",
+    "shape": "Geometric",
+    "color": "Gunmetal",
+    "size": "Medium",
+    "price": 1599
+  },
+  {
+    "id": "frame-7",
+    "name": "EMORY",
+    "style": "Casual",
+    "shape": "Rectangle",
+    "color": "Black",
+    "size": "Medium",
+    "price": 1299
+  },
+  {
+    "id": "frame-8",
+    "name": "SIENA",
+    "style": "Modern",
+    "shape": "Geometric",
+    "color": "Silver",
+    "size": "Medium",
+    "price": 1199
+  },
+  {
+    "id": "frame-9",
+    "name": "VERONA",
+    "style": "Trendy",
+    "shape": "Oval",
+    "color": "Rose Gold",
+    "size": "Small",
+    "price": 1499
+  },
+  {
+    "id": "frame-10",
+    "name": "OXFORD",
+    "style": "Classic",
+    "shape": "Browline",
+    "color": "Brown",
+    "size": "Medium",
+    "price": 1699
+  },
+  {
+    "id": "frame-11",
+    "name": "SOLARIS",
+    "style": "Trendy",
+    "shape": "Rectangle",
+    "color": "Amber",
+    "size": "Medium",
+    "price": 1799
+  },
+  {
+    "id": "frame-12",
+    "name": "HAVEN",
+    "style": "Casual",
+    "shape": "Square",
+    "color": "Tortoise",
+    "size": "Medium",
+    "price": 1599
+  },
+  {
+    "id": "frame-13",
+    "name": "LUMEN",
+    "style": "Modern",
+    "shape": "Square",
+    "color": "Clear",
+    "size": "Medium",
+    "price": 1299
+  },
+  {
+    "id": "frame-14",
+    "name": "KENSINGTON",
+    "style": "Professional",
+    "shape": "Rectangle",
+    "color": "Black",
+    "size": "Medium",
+    "price": 1499
+  },
+  {
+    "id": "frame-15",
+    "name": "MANHATTAN",
+    "style": "Professional",
+    "shape": "Rectangle",
+    "color": "Gunmetal",
+    "size": "Medium",
+    "price": 1699
+  },
+  {
+    "id": "frame-16",
+    "name": "VERTEX",
+    "style": "Modern",
+    "shape": "Rectangle",
+    "color": "Black",
+    "size": "Large",
+    "price": 1999
+  },
+  {
+    "id": "frame-17",
+    "name": "NEXUS",
+    "style": "Modern",
+    "shape": "Rectangle",
+    "color": "Blue",
+    "size": "Large",
+    "price": 1399
+  },
+  {
+    "id": "frame-18",
+    "name": "CELESTE",
+    "style": "Trendy",
+    "shape": "Cat-Eye",
+    "color": "Champagne",
+    "size": "Small",
+    "price": 1799
+  },
+  {
+    "id": "frame-19",
+    "name": "ESTATE",
+    "style": "Classic",
+    "shape": "Oval",
+    "color": "Gold",
+    "size": "Small",
+    "price": 1199
+  },
+  {
+    "id": "frame-20",
+    "name": "PRISM",
+    "style": "Modern",
+    "shape": "Geometric",
+    "color": "Clear",
+    "size": "Small",
+    "price": 1899
+  },
+  {
+    "id": "frame-21",
+    "name": "GENEVA",
+    "style": "Professional",
+    "shape": "Rectangle",
+    "color": "Blue",
+    "size": "Medium",
+    "price": 1499
+  },
+  {
+    "id": "frame-22",
+    "name": "MAYFAIR",
+    "style": "Professional",
+    "shape": "Square",
+    "color": "Gunmetal",
+    "size": "Medium",
+    "price": 1599
+  },
+  {
+    "id": "frame-23",
+    "name": "MONOLITH",
+    "style": "Classic",
+    "shape": "Square",
+    "color": "Black",
+    "size": "Large",
+    "price": 1699
+  },
+  {
+    "id": "frame-24",
+    "name": "PACIFICA",
+    "style": "Casual",
+    "shape": "Square",
+    "color": "Black",
+    "size": "Large",
+    "price": 1099
+  },
+  {
+    "id": "frame-25",
+    "name": "ZEPHYR",
+    "style": "Trendy",
+    "shape": "Geometric",
+    "color": "Silver",
+    "size": "Medium",
+    "price": 1299
+  },
+  {
+    "id": "frame-26",
+    "name": "CAPITOL",
+    "style": "Professional",
+    "shape": "Rectangle",
+    "color": "Black",
+    "size": "Medium",
+    "price": 1399
+  },
+  {
+    "id": "frame-27",
+    "name": "HERITAGE",
+    "style": "Classic",
+    "shape": "Round",
+    "color": "Gold",
+    "size": "Medium",
+    "price": 1799
+  },
+  {
+    "id": "frame-28",
+    "name": "TRIBUNE",
+    "style": "Professional",
+    "shape": "Browline",
+    "color": "Silver",
+    "size": "Large",
+    "price": 1899
+  },
+  {
+    "id": "frame-29",
+    "name": "DRIFTWOOD",
+    "style": "Casual",
+    "shape": "Round",
+    "color": "Champagne",
+    "size": "Small",
+    "price": 1699
+  },
+  {
+    "id": "frame-30",
+    "name": "MARINER",
+    "style": "Casual",
+    "shape": "Rectangle",
+    "color": "Gunmetal",
+    "size": "Medium",
+    "price": 1099
+  },
+  {
+    "id": "frame-31",
+    "name": "COASTLINE",
+    "style": "Casual",
+    "shape": "Square",
+    "color": "Brown",
+    "size": "Medium",
+    "price": 1199
+  },
+  {
+    "id": "frame-32",
+    "name": "NOVA",
+    "style": "Trendy",
+    "shape": "Geometric",
+    "color": "Teal",
+    "size": "Medium",
+    "price": 1499
+  },
+  {
+    "id": "frame-33",
+    "name": "CAMBRIDGE",
+    "style": "Classic",
+    "shape": "Round",
+    "color": "Tortoise",
+    "size": "Medium",
+    "price": 1599
+  },
+  {
+    "id": "frame-34",
+    "name": "BREEZE",
+    "style": "Casual",
+    "shape": "Oval",
+    "color": "Gold",
+    "size": "Small",
+    "price": 1799
+  },
+  {
+    "id": "frame-35",
+    "name": "MILANO",
+    "style": "Classic",
+    "shape": "Square",
+    "color": "Black",
+    "size": "Medium",
+    "price": 1899
+  },
+  {
+    "id": "frame-36",
+    "name": "VALENCIA",
+    "style": "Trendy",
+    "shape": "Round",
+    "color": "Champagne",
+    "size": "Medium",
+    "price": 1399
+  },
+  {
+    "id": "frame-37",
+    "name": "STRATA",
+    "style": "Modern",
+    "shape": "Square",
+    "color": "Black",
+    "size": "Medium",
+    "price": 1599
+  },
+  {
+    "id": "frame-38",
+    "name": "KINETIC",
+    "style": "Modern",
+    "shape": "Rectangle",
+    "color": "Silver",
+    "size": "Medium",
+    "price": 1999
+  },
+  {
+    "id": "frame-39",
+    "name": "SIREN",
+    "style": "Trendy",
+    "shape": "Cat-Eye",
+    "color": "Tortoise",
+    "size": "Medium",
+    "price": 1699
+  },
+  {
+    "id": "frame-40",
+    "name": "NORDIC",
+    "style": "Modern",
+    "shape": "Square",
+    "color": "Black",
+    "size": "Large",
+    "price": 1899
+  }
+]

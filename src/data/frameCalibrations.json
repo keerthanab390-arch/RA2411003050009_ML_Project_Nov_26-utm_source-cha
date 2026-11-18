@@ -1,0 +1,642 @@
+{
+  "frame01": {
+    "frameId": "frame01",
+    "opticalCenterXPercent": 28.75,
+    "opticalCenterYPercent": 39.92,
+    "lensDistanceRatio": 0.2407,
+    "frontWidthRatio": 0.5075,
+    "intrinsicTiltDeg": -2.27,
+    "leftLens": {
+      "xPercent": 16.71,
+      "yPercent": 40.88
+    },
+    "rightLens": {
+      "xPercent": 40.79,
+      "yPercent": 38.97
+    }
+  },
+  "frame02": {
+    "frameId": "frame02",
+    "opticalCenterXPercent": 28.28,
+    "opticalCenterYPercent": 41.59,
+    "lensDistanceRatio": 0.2359,
+    "frontWidthRatio": 0.4996,
+    "intrinsicTiltDeg": -3.54,
+    "leftLens": {
+      "xPercent": 16.48,
+      "yPercent": 43.05
+    },
+    "rightLens": {
+      "xPercent": 40.07,
+      "yPercent": 40.13
+    }
+  },
+  "frame03": {
+    "frameId": "frame03",
+    "opticalCenterXPercent": 28.66,
+    "opticalCenterYPercent": 39.54,
+    "lensDistanceRatio": 0.2447,
+    "frontWidthRatio": 0.4938,
+    "intrinsicTiltDeg": -0.1,
+    "leftLens": {
+      "xPercent": 16.42,
+      "yPercent": 39.59
+    },
+    "rightLens": {
+      "xPercent": 40.9,
+      "yPercent": 39.5
+    }
+  },
+  "frame04": {
+    "frameId": "frame04",
+    "opticalCenterXPercent": 28.61,
+    "opticalCenterYPercent": 39.78,
+    "lensDistanceRatio": 0.2423,
+    "frontWidthRatio": 0.5079,
+    "intrinsicTiltDeg": -0.92,
+    "leftLens": {
+      "xPercent": 16.49,
+      "yPercent": 40.17
+    },
+    "rightLens": {
+      "xPercent": 40.72,
+      "yPercent": 39.39
+    }
+  },
+  "frame05": {
+    "frameId": "frame05",
+    "opticalCenterXPercent": 28.99,
+    "opticalCenterYPercent": 39.79,
+    "lensDistanceRatio": 0.2403,
+    "frontWidthRatio": 0.5104,
+    "intrinsicTiltDeg": -2.76,
+    "leftLens": {
+      "xPercent": 16.97,
+      "yPercent": 40.95
+    },
+    "rightLens": {
+      "xPercent": 41.0,
+      "yPercent": 38.63
+    }
+  },
+  "frame06": {
+    "frameId": "frame06",
+    "opticalCenterXPercent": 29.08,
+    "opticalCenterYPercent": 39.79,
+    "lensDistanceRatio": 0.2413,
+    "frontWidthRatio": 0.5129,
+    "intrinsicTiltDeg": -2.94,
+    "leftLens": {
+      "xPercent": 17.01,
+      "yPercent": 41.03
+    },
+    "rightLens": {
+      "xPercent": 41.14,
+      "yPercent": 38.55
+    }
+  },
+  "frame07": {
+    "frameId": "frame07",
+    "opticalCenterXPercent": 29.52,
+    "opticalCenterYPercent": 40.45,
+    "lensDistanceRatio": 0.2437,
+    "frontWidthRatio": 0.5154,
+    "intrinsicTiltDeg": -4.19,
+    "leftLens": {
+      "xPercent": 17.34,
+      "yPercent": 42.23
+    },
+    "rightLens": {
+      "xPercent": 41.71,
+      "yPercent": 38.67
+    }
+  },
+  "frame08": {
+    "frameId": "frame08",
+    "opticalCenterXPercent": 28.74,
+    "opticalCenterYPercent": 39.74,
+    "lensDistanceRatio": 0.2446,
+    "frontWidthRatio": 0.5079,
+    "intrinsicTiltDeg": -0.32,
+    "leftLens": {
+      "xPercent": 16.51,
+      "yPercent": 39.87
+    },
+    "rightLens": {
+      "xPercent": 40.97,
+      "yPercent": 39.6
+    }
+  },
+  "frame09": {
+    "frameId": "frame09",
+    "opticalCenterXPercent": 28.67,
+    "opticalCenterYPercent": 39.56,
+    "lensDistanceRatio": 0.241,
+    "frontWidthRatio": 0.505,
+    "intrinsicTiltDeg": -0.72,
+    "leftLens": {
+      "xPercent": 16.62,
+      "yPercent": 39.86
+    },
+    "rightLens": {
+      "xPercent": 40.72,
+      "yPercent": 39.26
+    }
+  },
+  "frame10": {
+    "frameId": "frame10",
+    "opticalCenterXPercent": 28.58,
+    "opticalCenterYPercent": 42.19,
+    "lensDistanceRatio": 0.2504,
+    "frontWidthRatio": 0.5088,
+    "intrinsicTiltDeg": -2.75,
+    "leftLens": {
+      "xPercent": 16.06,
+      "yPercent": 43.39
+    },
+    "rightLens": {
+      "xPercent": 41.1,
+      "yPercent": 40.99
+    }
+  },
+  "frame11": {
+    "frameId": "frame11",
+    "opticalCenterXPercent": 28.26,
+    "opticalCenterYPercent": 42.07,
+    "lensDistanceRatio": 0.2372,
+    "frontWidthRatio": 0.4996,
+    "intrinsicTiltDeg": -2.66,
+    "leftLens": {
+      "xPercent": 16.4,
+      "yPercent": 43.17
+    },
+    "rightLens": {
+      "xPercent": 40.12,
+      "yPercent": 40.97
+    }
+  },
+  "frame12": {
+    "frameId": "frame12",
+    "opticalCenterXPercent": 28.77,
+    "opticalCenterYPercent": 40.38,
+    "lensDistanceRatio": 0.2441,
+    "frontWidthRatio": 0.51,
+    "intrinsicTiltDeg": -2.01,
+    "leftLens": {
+      "xPercent": 16.56,
+      "yPercent": 41.24
+    },
+    "rightLens": {
+      "xPercent": 40.97,
+      "yPercent": 39.53
+    }
+  },
+  "frame13": {
+    "frameId": "frame13",
+    "opticalCenterXPercent": 28.64,
+    "opticalCenterYPercent": 40.43,
+    "lensDistanceRatio": 0.2412,
+    "frontWidthRatio": 0.5067,
+    "intrinsicTiltDeg": -1.73,
+    "leftLens": {
+      "xPercent": 16.58,
+      "yPercent": 41.16
+    },
+    "rightLens": {
+      "xPercent": 40.7,
+      "yPercent": 39.7
+    }
+  },
+  "frame14": {
+    "frameId": "frame14",
+    "opticalCenterXPercent": 28.73,
+    "opticalCenterYPercent": 41.42,
+    "lensDistanceRatio": 0.2511,
+    "frontWidthRatio": 0.5117,
+    "intrinsicTiltDeg": -2.33,
+    "leftLens": {
+      "xPercent": 16.18,
+      "yPercent": 42.44
+    },
+    "rightLens": {
+      "xPercent": 41.28,
+      "yPercent": 40.4
+    }
+  },
+  "frame15": {
+    "frameId": "frame15",
+    "opticalCenterXPercent": 28.73,
+    "opticalCenterYPercent": 41.58,
+    "lensDistanceRatio": 0.2532,
+    "frontWidthRatio": 0.5117,
+    "intrinsicTiltDeg": -2.29,
+    "leftLens": {
+      "xPercent": 16.07,
+      "yPercent": 42.59
+    },
+    "rightLens": {
+      "xPercent": 41.39,
+      "yPercent": 40.56
+    }
+  },
+  "frame16": {
+    "frameId": "frame16",
+    "opticalCenterXPercent": 28.46,
+    "opticalCenterYPercent": 40.15,
+    "lensDistanceRatio": 0.237,
+    "frontWidthRatio": 0.5012,
+    "intrinsicTiltDeg": -0.3,
+    "leftLens": {
+      "xPercent": 16.62,
+      "yPercent": 40.28
+    },
+    "rightLens": {
+      "xPercent": 40.31,
+      "yPercent": 40.03
+    }
+  },
+  "frame17": {
+    "frameId": "frame17",
+    "opticalCenterXPercent": 28.74,
+    "opticalCenterYPercent": 40.0,
+    "lensDistanceRatio": 0.242,
+    "frontWidthRatio": 0.5083,
+    "intrinsicTiltDeg": -0.18,
+    "leftLens": {
+      "xPercent": 16.64,
+      "yPercent": 40.07
+    },
+    "rightLens": {
+      "xPercent": 40.84,
+      "yPercent": 39.92
+    }
+  },
+  "frame18": {
+    "frameId": "frame18",
+    "opticalCenterXPercent": 28.58,
+    "opticalCenterYPercent": 42.41,
+    "lensDistanceRatio": 0.2614,
+    "frontWidthRatio": 0.4983,
+    "intrinsicTiltDeg": -1.07,
+    "leftLens": {
+      "xPercent": 15.51,
+      "yPercent": 42.9
+    },
+    "rightLens": {
+      "xPercent": 41.65,
+      "yPercent": 41.92
+    }
+  },
+  "frame19": {
+    "frameId": "frame19",
+    "opticalCenterXPercent": 28.98,
+    "opticalCenterYPercent": 40.13,
+    "lensDistanceRatio": 0.2383,
+    "frontWidthRatio": 0.5067,
+    "intrinsicTiltDeg": -3.23,
+    "leftLens": {
+      "xPercent": 17.07,
+      "yPercent": 41.47
+    },
+    "rightLens": {
+      "xPercent": 40.9,
+      "yPercent": 38.78
+    }
+  },
+  "frame20": {
+    "frameId": "frame20",
+    "opticalCenterXPercent": 28.33,
+    "opticalCenterYPercent": 39.33,
+    "lensDistanceRatio": 0.2411,
+    "frontWidthRatio": 0.4846,
+    "intrinsicTiltDeg": -0.11,
+    "leftLens": {
+      "xPercent": 16.28,
+      "yPercent": 39.38
+    },
+    "rightLens": {
+      "xPercent": 40.39,
+      "yPercent": 39.28
+    }
+  },
+  "frame21": {
+    "frameId": "frame21",
+    "opticalCenterXPercent": 28.75,
+    "opticalCenterYPercent": 40.58,
+    "lensDistanceRatio": 0.2419,
+    "frontWidthRatio": 0.5096,
+    "intrinsicTiltDeg": -0.59,
+    "leftLens": {
+      "xPercent": 16.65,
+      "yPercent": 40.83
+    },
+    "rightLens": {
+      "xPercent": 40.84,
+      "yPercent": 40.33
+    }
+  },
+  "frame22": {
+    "frameId": "frame22",
+    "opticalCenterXPercent": 28.76,
+    "opticalCenterYPercent": 40.5,
+    "lensDistanceRatio": 0.2424,
+    "frontWidthRatio": 0.5071,
+    "intrinsicTiltDeg": -0.45,
+    "leftLens": {
+      "xPercent": 16.64,
+      "yPercent": 40.69
+    },
+    "rightLens": {
+      "xPercent": 40.88,
+      "yPercent": 40.31
+    }
+  },
+  "frame23": {
+    "frameId": "frame23",
+    "opticalCenterXPercent": 28.74,
+    "opticalCenterYPercent": 41.7,
+    "lensDistanceRatio": 0.2526,
+    "frontWidthRatio": 0.5079,
+    "intrinsicTiltDeg": -2.23,
+    "leftLens": {
+      "xPercent": 16.11,
+      "yPercent": 42.69
+    },
+    "rightLens": {
+      "xPercent": 41.37,
+      "yPercent": 40.72
+    }
+  },
+  "frame24": {
+    "frameId": "frame24",
+    "opticalCenterXPercent": 28.94,
+    "opticalCenterYPercent": 42.24,
+    "lensDistanceRatio": 0.2548,
+    "frontWidthRatio": 0.5167,
+    "intrinsicTiltDeg": -0.69,
+    "leftLens": {
+      "xPercent": 16.2,
+      "yPercent": 42.54
+    },
+    "rightLens": {
+      "xPercent": 41.68,
+      "yPercent": 41.93
+    }
+  },
+  "frame25": {
+    "frameId": "frame25",
+    "opticalCenterXPercent": 28.71,
+    "opticalCenterYPercent": 40.39,
+    "lensDistanceRatio": 0.2493,
+    "frontWidthRatio": 0.5062,
+    "intrinsicTiltDeg": -0.83,
+    "leftLens": {
+      "xPercent": 16.24,
+      "yPercent": 40.75
+    },
+    "rightLens": {
+      "xPercent": 41.18,
+      "yPercent": 40.03
+    }
+  },
+  "frame26": {
+    "frameId": "frame26",
+    "opticalCenterXPercent": 28.65,
+    "opticalCenterYPercent": 40.51,
+    "lensDistanceRatio": 0.2491,
+    "frontWidthRatio": 0.5121,
+    "intrinsicTiltDeg": -0.61,
+    "leftLens": {
+      "xPercent": 16.19,
+      "yPercent": 40.77
+    },
+    "rightLens": {
+      "xPercent": 41.1,
+      "yPercent": 40.24
+    }
+  },
+  "frame27": {
+    "frameId": "frame27",
+    "opticalCenterXPercent": 28.75,
+    "opticalCenterYPercent": 39.5,
+    "lensDistanceRatio": 0.2414,
+    "frontWidthRatio": 0.5092,
+    "intrinsicTiltDeg": -0.35,
+    "leftLens": {
+      "xPercent": 16.68,
+      "yPercent": 39.65
+    },
+    "rightLens": {
+      "xPercent": 40.82,
+      "yPercent": 39.35
+    }
+  },
+  "frame28": {
+    "frameId": "frame28",
+    "opticalCenterXPercent": 28.7,
+    "opticalCenterYPercent": 39.48,
+    "lensDistanceRatio": 0.2415,
+    "frontWidthRatio": 0.5079,
+    "intrinsicTiltDeg": -0.2,
+    "leftLens": {
+      "xPercent": 16.62,
+      "yPercent": 39.56
+    },
+    "rightLens": {
+      "xPercent": 40.77,
+      "yPercent": 39.39
+    }
+  },
+  "frame29": {
+    "frameId": "frame29",
+    "opticalCenterXPercent": 28.82,
+    "opticalCenterYPercent": 39.79,
+    "lensDistanceRatio": 0.2481,
+    "frontWidthRatio": 0.5104,
+    "intrinsicTiltDeg": -0.92,
+    "leftLens": {
+      "xPercent": 16.42,
+      "yPercent": 40.19
+    },
+    "rightLens": {
+      "xPercent": 41.23,
+      "yPercent": 39.39
+    }
+  },
+  "frame30": {
+    "frameId": "frame30",
+    "opticalCenterXPercent": 28.51,
+    "opticalCenterYPercent": 40.11,
+    "lensDistanceRatio": 0.2375,
+    "frontWidthRatio": 0.5017,
+    "intrinsicTiltDeg": -1.74,
+    "leftLens": {
+      "xPercent": 16.63,
+      "yPercent": 40.83
+    },
+    "rightLens": {
+      "xPercent": 40.38,
+      "yPercent": 39.39
+    }
+  },
+  "frame31": {
+    "frameId": "frame31",
+    "opticalCenterXPercent": 28.63,
+    "opticalCenterYPercent": 41.07,
+    "lensDistanceRatio": 0.2441,
+    "frontWidthRatio": 0.5096,
+    "intrinsicTiltDeg": -2.15,
+    "leftLens": {
+      "xPercent": 16.43,
+      "yPercent": 41.98
+    },
+    "rightLens": {
+      "xPercent": 40.84,
+      "yPercent": 40.15
+    }
+  },
+  "frame32": {
+    "frameId": "frame32",
+    "opticalCenterXPercent": 28.56,
+    "opticalCenterYPercent": 41.15,
+    "lensDistanceRatio": 0.2457,
+    "frontWidthRatio": 0.5067,
+    "intrinsicTiltDeg": -2.03,
+    "leftLens": {
+      "xPercent": 16.28,
+      "yPercent": 42.02
+    },
+    "rightLens": {
+      "xPercent": 40.84,
+      "yPercent": 40.28
+    }
+  },
+  "frame33": {
+    "frameId": "frame33",
+    "opticalCenterXPercent": 28.56,
+    "opticalCenterYPercent": 39.39,
+    "lensDistanceRatio": 0.2367,
+    "frontWidthRatio": 0.5029,
+    "intrinsicTiltDeg": -1.32,
+    "leftLens": {
+      "xPercent": 16.72,
+      "yPercent": 39.94
+    },
+    "rightLens": {
+      "xPercent": 40.39,
+      "yPercent": 38.85
+    }
+  },
+  "frame34": {
+    "frameId": "frame34",
+    "opticalCenterXPercent": 28.7,
+    "opticalCenterYPercent": 39.94,
+    "lensDistanceRatio": 0.243,
+    "frontWidthRatio": 0.5029,
+    "intrinsicTiltDeg": -0.89,
+    "leftLens": {
+      "xPercent": 16.55,
+      "yPercent": 40.32
+    },
+    "rightLens": {
+      "xPercent": 40.85,
+      "yPercent": 39.57
+    }
+  },
+  "frame35": {
+    "frameId": "frame35",
+    "opticalCenterXPercent": 28.34,
+    "opticalCenterYPercent": 40.21,
+    "lensDistanceRatio": 0.2461,
+    "frontWidthRatio": 0.4879,
+    "intrinsicTiltDeg": -2.82,
+    "leftLens": {
+      "xPercent": 16.04,
+      "yPercent": 41.42
+    },
+    "rightLens": {
+      "xPercent": 40.65,
+      "yPercent": 38.99
+    }
+  },
+  "frame36": {
+    "frameId": "frame36",
+    "opticalCenterXPercent": 28.52,
+    "opticalCenterYPercent": 39.59,
+    "lensDistanceRatio": 0.2441,
+    "frontWidthRatio": 0.4788,
+    "intrinsicTiltDeg": 0.24,
+    "leftLens": {
+      "xPercent": 16.32,
+      "yPercent": 39.49
+    },
+    "rightLens": {
+      "xPercent": 40.73,
+      "yPercent": 39.69
+    }
+  },
+  "frame37": {
+    "frameId": "frame37",
+    "opticalCenterXPercent": 28.5,
+    "opticalCenterYPercent": 41.09,
+    "lensDistanceRatio": 0.2423,
+    "frontWidthRatio": 0.5075,
+    "intrinsicTiltDeg": -2.04,
+    "leftLens": {
+      "xPercent": 16.38,
+      "yPercent": 41.96
+    },
+    "rightLens": {
+      "xPercent": 40.62,
+      "yPercent": 40.23
+    }
+  },
+  "frame38": {
+    "frameId": "frame38",
+    "opticalCenterXPercent": 28.67,
+    "opticalCenterYPercent": 40.18,
+    "lensDistanceRatio": 0.2449,
+    "frontWidthRatio": 0.5075,
+    "intrinsicTiltDeg": 0.06,
+    "leftLens": {
+      "xPercent": 16.43,
+      "yPercent": 40.16
+    },
+    "rightLens": {
+      "xPercent": 40.92,
+      "yPercent": 40.21
+    }
+  },
+  "frame39": {
+    "frameId": "frame39",
+    "opticalCenterXPercent": 28.69,
+    "opticalCenterYPercent": 39.63,
+    "lensDistanceRatio": 0.2485,
+    "frontWidthRatio": 0.5058,
+    "intrinsicTiltDeg": -0.4,
+    "leftLens": {
+      "xPercent": 16.27,
+      "yPercent": 39.8
+    },
+    "rightLens": {
+      "xPercent": 41.12,
+      "yPercent": 39.45
+    }
+  },
+  "frame40": {
+    "frameId": "frame40",
+    "opticalCenterXPercent": 28.44,
+    "opticalCenterYPercent": 39.88,
+    "lensDistanceRatio": 0.2445,
+    "frontWidthRatio": 0.5058,
+    "intrinsicTiltDeg": -1.03,
+    "leftLens": {
+      "xPercent": 16.21,
+      "yPercent": 40.32
+    },
+    "rightLens": {
+      "xPercent": 40.67,
+      "yPercent": 39.44
+    }
+  }
+}
